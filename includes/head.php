@@ -12,6 +12,7 @@
     <link rel="stylesheet" href="css/thaw-flex.css" type="text/css" />
     <link rel="stylesheet" href="css/font.css" type="text/css" />
     <link rel="stylesheet" href="css/fontawesome.min.css" type="text/css" />
+    <link rel="stylesheet" href="css/custom.css" type="text/css" />
     <link rel="stylesheet" href="style.css" type="text/css" />
     <link rel="stylesheet" href="css/responsive.css" type="text/css" />
     <link rel="icon" href="img/fav-icon.png">
@@ -24,5 +25,5 @@
 
     <!-- DOCUMENT TITLES
             ============================================= -->
-    <title>Dugem | Dugem HTML Themes</title>
+    <title>Ofrenda By Inferno Fest</title>
 </head>

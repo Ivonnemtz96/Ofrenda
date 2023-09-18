@@ -6,7 +6,7 @@
                     <!-- LOGO START
                                 ============================================= -->
                     <div class="logo">
-                        <a href="index.html"><img src="img/logo_ofrenda.png" alt="Ofrenda by Inferno" /></a>
+                        <a href="/"><img src="img/logo_ofrenda.png?=1" style="width:7rem;" alt="Ofrenda by Inferno" /></a>
                     </div>
                     <!-- LOGO END -->
                 </div>
@@ -20,10 +20,10 @@
                         </label>
                         <!-- Sample menu definition -->
                         <ul id="main-menu" class="sm sm-clean">
-                            <li class="menu-item"><a href="index.html" class="menu-link">Inicio</a></li>
-                            <li class="menu-item"><a href="about.html" class="menu-link">Nosotros</a></li>
-                            <li class="menu-item"><a href="event.html" class="menu-link">Comprar Tickets</a></li>
-                            <li class="menu-item"><a href="contact.html" class="menu-link">Contacto</a></li>
+                            <li class="menu-item"><a href="/" class="menu-link">Inicio</a></li>
+                            <li class="menu-item"><a href="#about" class="menu-link">Nosotros</a></li>
+                            <li class="menu-item"><a href="#contact" class="menu-link">Contacto</a></li>
+                            <li class="menu-item"><a href="#" class="menu-link">Comprar Tickets</a></li>
                         </ul>
                     </nav>
                     <!-- NAVIGATION END -->

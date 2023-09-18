@@ -231,25 +231,19 @@
 </style>
 
 <div class="whats-float">
-    <a href="https://wa.me/+526242133413?text=Hola%20me%20gustaría%20más%20información." target="_blank">
-        <i class="fab fa-whatsapp"></i><span>WhatsApp<br><small>6242133413</small></span>
+    <a href="https://wa.me/+526241571621?text=Hola%20me%20gustaría%20más%20información." target="_blank">
+        <i class="fab fa-whatsapp"></i><span>WhatsApp<br><small>6241571621</small></span>
     </a>
 </div>
 
 <div class="insta-float">
-    <a href="https://www.instagram.com/baja_diablo/" target="_blank">
-        <i style="margin: 0px;" class="fab fa-instagram"></i><span>Instagram<br><small>@baja_diablo</small></span>
+    <a href="https://instagram.com/ofrenda.2023?igshid=MmU2YjMzNjRlOQ==" target="_blank">
+        <i style="margin: 0px;" class="fab fa-instagram"></i><span>Instagram<br><small>@ofrenda.2023</small></span>
     </a>
 </div>
 
 <div class="fb-float">
-    <a href="https://www.facebook.com/profile.php?id=100086428643391" target="_blank">
-        <i style="margin: 0px;" class="fab fa-facebook"></i><span>Facebook<br><small>baja_diablo</small></span>
-    </a>
-</div>
-
-<div class="tiktok-float">
-    <a href="https://www.tiktok.com/@baja_diablo" target="_blank">
-        <i style="margin: 0px;" class="fab fa-tiktok"></i><span>Tiktok<br><small>Baja_diablo</small></span>
+    <a href="https://www.facebook.com/loscabosfarmersmarket?mibextid=2JQ9oc" target="_blank">
+        <i style="margin: 0px;" class="fab fa-facebook"></i><span>Facebook<br><small>Ofrenda by...</small></span>
     </a>
 </div>
