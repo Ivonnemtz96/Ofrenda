@@ -1,34 +1,31 @@
-<header id="header" class="header-style-1 header-alt">
-    <div class="container">
-        <div class="row clearfix">
-            <div class="header-clear clearfix">
-                <div class="header-content-left clearfix">
-                    <!-- LOGO START
-                                ============================================= -->
-                    <div class="logo">
-                        <a href="/"><img src="img/logo_ofrenda.png?=1" style="width:7rem;" alt="Ofrenda by Inferno" /></a>
-                    </div>
-                    <!-- LOGO END -->
-                </div>
-                <div class="header-content-center clearfix">
-                    <!-- NAVIGATION START============================================= -->
-                    <nav class="main-nav">
-                        <!-- Mobile menu toggle button (hamburger/x icon) -->
-                        <input id="main-menu-state" type="checkbox" />
-                        <label class="main-menu-btn sub-menu-trigger" for="main-menu-state">
-                            <span class="main-menu-btn-icon"></span> Toggle main menu visibility
-                        </label>
-                        <!-- Sample menu definition -->
-                        <ul id="main-menu" class="sm sm-clean">
-                            <li class="menu-item"><a href="/" class="menu-link">Inicio</a></li>
-                            <li class="menu-item"><a href="#about" class="menu-link">Nosotros</a></li>
-                            <li class="menu-item"><a href="#contact" class="menu-link">Contacto</a></li>
-                            <li class="menu-item"><a href="#" class="menu-link">Comprar Tickets</a></li>
-                        </ul>
-                    </nav>
-                    <!-- NAVIGATION END -->
-                </div>
-            </div>
-        </div>
-    </div>
-</header>
+ <!-- Navbar -->
+ <nav class="navbar navbar-expand-lg">
+     <div class="container">
+         <!-- Logo -->
+         <div class="logo-wrapper valign">
+             <div class="logo">
+                 <h2><a href="index.html">winta</a><span>Steakhouse+Bar</span></h2>
+             </div>
+         </div>
+         <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent"
+             aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation"> <span
+                 class="icon-bar"><i class="ti-line-double"></i></span> </button>
+         <!-- Navbar links -->
+         <div class="collapse navbar-collapse" id="navbarSupportedContent">
+             <ul class="navbar-nav ml-auto">
+                 <li class="nav-item"><a class="nav-link active" href="index.html">Home</a></li>
+                 <li class="nav-item"><a class="nav-link" href="about.html">About</a></li>
+                 <li class="nav-item dropdown"> <span class="nav-link"> Menu <i class="ti-angle-down"></i></span>
+                     <ul class="dropdown-menu last">
+                         <li class="dropdown-item"><a href="menu.html">Menu 1</a></li>
+                         <li class="dropdown-item"><a href="menu-page.html">Menu 2</a></li>
+                     </ul>
+                 </li>
+                 <li class="nav-item"><a class="nav-link" href="gallery.html">Gallery</a></li>
+                 <li class="nav-item"><a class="nav-link" href="contact.html">Contact</a></li>
+                 <li class="nav-item"><a class="nav-link" href="news.html">News</a></li>
+             </ul>
+         </div>
+     </div>
+ </nav>
+ <!-- Slider -->
