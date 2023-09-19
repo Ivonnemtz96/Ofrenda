@@ -6,6 +6,7 @@
 <body >
        
     <?php
+        include("includes/preloader.php");
         include("includes/header.php");
         include("modules/index.php");
         include("includes/redes.php");

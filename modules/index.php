@@ -56,18 +56,34 @@
     <div class="container">
         <div class="row">
             <div class="col-md-6 mb-60 animate-box" data-animate-effect="fadeInUp">
-                <span class="section-subtitle">Steakhouse + Bar</span>
-                <h2 class="section-title">Welcome to <span>Winta</span></h2>
-                <p>Quality the nunc bibe endum in finibus elit eget they solli citudin elit. Phaselu the rutrum in
-                    lacusu euismod. Vestibulum eleifend tortor orci eu ornare tortor semta. Duis scelerisque the nise
-                    duru the look. Liwense eu nunc bibe endum in finibus elit eget the solli citudin elit. Drae tnea
-                    rutierum in lacus.</p>
-                <p>Duis scelerisque the nibhse drana moss pulvinar laie. Quality the biberon endumn finbus elit egethe
-                    solli citudin elit. Phasellus rutrum inle lacusut euismod. Vestibue eleifend tortor eu misse endumin
-                    finbus elit eget the soli citudin elit.</p>
-                <p>Winta the nunc bibe endum in finibus elit eget they solli citudin elit. Phaselu the rutrum in lacusu
-                    euismod. Vestibulum eleifend tortor orci ornare torte sempeni. Luiste scelerisque the nise duru the
-                    look.</p>
+                <span class="section-subtitle">Nosotros</span>
+                <h2 class="section-title">¿Qué Inferno?</h2>
+                <p>
+                    Es un evento temático que tiene como propósito
+                    primario reunir a los mejores cocineros de Baja Sur
+                    y del mundo, formando una tribu en honor al fuego,
+                    gastronomía exótica y mixología con inspiraciones
+                    ancestrales, son ingredientes principales de Inferno a
+                    manos de los apasionados por las parrillas en uno de los
+                    etornos y destinos turísticos mas bellos del mundo,
+                    Los Cabos.
+                </p>
+                <p>
+                    El fuego siempre es el lugar donde nos reunimos a
+                    celebrar, a crecer, a evolucionar. INFERNO FEST es el
+                    espacio en donde damos el siguiente paso para la
+                    evolución del escenario culinario de Los Cabos. Alrededor
+                    del fuego creamos, nos unimos, renacemos y
+                    construimos la mitología que nos impulsa. No somos un
+                    evento culinario ordinario. Somos más que un evento,
+                    somos un ritual, una reunión de tribus alrededor del
+                    elemento que nos hizo civilización.
+                </p>
+                <p>
+                    “La muerte siendo parte de la Vida que se materializa en el altar
+                    ofrecido”
+                </p>
+
             </div>
             <div class="col-md-6 about mb-60 animate-box" data-animate-effect="fadeInUp">
                 <div class="about-frame">
@@ -75,20 +91,20 @@
                         <div class="col-md-12">
                             <div class="frame-img">
                                 <div class="img mb-20">
-                                    <img src="img/about1.jpg" alt="">
+                                    <img src="img/about1.jpg?=1" alt="">
                                 </div>
                             </div>
                         </div>
                         <div class="col-md-7">
                             <div class="frame-img">
-                                <div class="img"> <img src="img/about2.jpg" alt=""> </div>
+                                <div class="img"> <img src="img/about2.jpg?=1" alt=""> </div>
                             </div>
                         </div>
                         <div class="col-md-5">
                             <div class="years-about-frame">
                                 <div class="about-frame-text">
-                                    <h2 class="custom-font">25</h2>
-                                    <h6>Years Of Experience</h6>
+                                    <h2 class="custom-font">6</h2>
+                                    <h6>Años de experiencia</h6>
                                 </div>
                             </div>
                         </div>
@@ -101,246 +117,62 @@
 <!-- Menus -->
 <section class="menus menu section-padding bg-lightcolor">
     <div class="container">
-        <div class="row">
-            <div class="col-md-10 offset-md-1 mb-30 text-center">
-                <h2 class="section-title">Menu <span>List</span></h2>
-                <hr class="line line-hr-center">
-            </div>
-        </div>
-        <div class="row">
-            <div class="col-md-10 offset-md-1">
-                <div class="row">
-                    <div class="tabs-icon mb-40 col-md-10 offset-md-1 text-center">
-                        <div class="owl-carousel owl-theme">
-                            <div id="tab-1" class="active item"> <span class="icon flaticon-022-tray"></span>
-                                <h6>Starters</h6>
-                            </div>
-                            <div id="tab-2" class="item"> <span class="icon flaticon-034-cow"></span>
-                                <h6>Mains</h6>
-                            </div>
-                            <div id="tab-3" class="item"> <span class="icon flaticon-013-salad"></span>
-                                <h6>Salads</h6>
-                            </div>
-                            <div id="tab-4" class="item"> <span class="icon flaticon-001-wine"></span>
-                                <h6>Wine</h6>
-                            </div>
-                            <div id="tab-5" class="item"> <span class="icon flaticon-025-coffee"></span>
-                                <h6>Breakfast</h6>
-                            </div>
-                            <div id="tab-6" class="item"> <span class="icon flaticon-016-pancake"></span>
-                                <h6>Dessert</h6>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="menus-content col-md-12">
-                        <!-- Starters -->
-                        <div id="tab-1-content" class="cont active">
-                            <div class="row">
-                                <div class="col-md-5">
-                                    <div class="menu-info">
-                                        <h5>Mozzarella Dippers <span class="price">27$</span></h5>
-                                        <p>Fried mozzarella sticks, marinara sauce</p>
-                                    </div>
-                                    <div class="menu-info">
-                                        <h5>Onion Rings <span class="price">32$</span></h5>
-                                        <p>Fried onion rings, smoked aioli</p>
-                                    </div>
-                                    <div class="menu-info">
-                                        <h5>Fried Jalapeno <span class="price">52$</span></h5>
-                                        <p>Fried jalapeno pickles, cheddar sauce</p>
-                                    </div>
-                                </div>
-                                <div class="col-md-5 offset-md-2">
-                                    <div class="menu-info">
-                                        <h5>Buffalo Wings <span class="price">37$</span></h5>
-                                        <p>Spicy chicken wings, blue cheese sauce, carrot, celery</p>
-                                    </div>
-                                    <div class="menu-info">
-                                        <h5>Chilli Con Carne <span class="price">32$</span></h5>
-                                        <p>Spicy ground beef, bacon, kidney beans</p>
-                                    </div>
-                                    <div class="menu-info">
-                                        <h5>Potato Skins <span class="price">42$</span></h5>
-                                        <p>Crispy potato skins; bacon & cheddar or vegetables</p>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                        <!-- Mains -->
-                        <div id="tab-2-content" class="cont">
-                            <div class="row">
-                                <div class="col-md-5">
-                                    <div class="menu-info">
-                                        <h5>Rusty’s Burger <span class="price">27$</span></h5>
-                                        <p>Smoked pulled beef ribs, bbq sauce, cheddar, crispy</p>
-                                    </div>
-                                    <div class="menu-info">
-                                        <h5>Cajun Fish Steak <span class="price">32$</span></h5>
-                                        <p>Cajun spicied seabass, deep fried baby potatoes</p>
-                                    </div>
-                                    <div class="menu-info">
-                                        <h5>Southern Fried Chicken <span class="price">52$</span></h5>
-                                        <p>Cajun coated chicken breast, fries and honey mustard</p>
-                                    </div>
-                                </div>
-                                <div class="col-md-5 offset-md-2">
-                                    <div class="menu-info">
-                                        <h5>Crab Cake <span class="price">37$</span></h5>
-                                        <p>Breaded crab cakes, tartar sauce, apple and fennel salad</p>
-                                    </div>
-                                    <div class="menu-info">
-                                        <h5>Baby Back Ribs <span class="price">32$</span></h5>
-                                        <p>Bbq glazed baby pork ribs, coleslaw, fries</p>
-                                    </div>
-                                    <div class="menu-info">
-                                        <h5>Smokehouse Combo <span class="price">42$</span></h5>
-                                        <p>Smoked beef brisket, rib and sausage, coleslaw</p>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                        <!-- Salads -->
-                        <div id="tab-3-content" class="cont">
-                            <div class="row">
-                                <div class="col-md-5">
-                                    <div class="menu-info">
-                                        <h5>Ceaser Salad <span class="price">47$</span></h5>
-                                        <p>Romaine lettuce, croutons, parmigiano, Ceaser dressing.</p>
-                                    </div>
-                                    <div class="menu-info">
-                                        <h5>Waldorf Salad <span class="price">52$</span></h5>
-                                        <p>Lettuce, celery, apple, grape, walnut, waldorf sauce</p>
-                                    </div>
-                                    <div class="menu-info">
-                                        <h5>Quinoa & Avocado Salad <span class="price">52$</span></h5>
-                                        <p>Quinoa, avocado, mixed greens. Nuts, fresh fruits</p>
-                                    </div>
-                                </div>
-                                <div class="col-md-5 offset-md-2">
-                                    <div class="menu-info">
-                                        <h5>Grilled Salmon Salad <span class="price">37$</span></h5>
-                                        <p>Grilled salmon, mixed greens, capers, orange slices</p>
-                                    </div>
-                                    <div class="menu-info">
-                                        <h5>Chicken Cobb Salad <span class="price">32$</span></h5>
-                                        <p>Iceberg lettuce, cherry tomatoes, blue cheese, avocado</p>
-                                    </div>
-                                    <div class="menu-info">
-                                        <h5>Salad Chicken <span class="price">42$</span></h5>
-                                        <p> Ceaser dressing. Optional grilled chicken breast</p>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                        <!-- Wine -->
-                        <div id="tab-4-content" class="cont">
-                            <div class="row">
-                                <div class="col-md-5">
-                                    <div class="menu-info">
-                                        <h5>Château d'Yquem 2011 <span class="price">400$</span></h5>
-                                        <p>Dessert Wine, Bordeaux, Graves, Sauternes</p>
-                                    </div>
-                                    <div class="menu-info">
-                                        <h5>Alvear Cream NV <span class="price">30$</span></h5>
-                                        <p>Dessert, Fortified Wine, Andalucia</p>
-                                    </div>
-                                    <div class="menu-info">
-                                        <h5>Chateau D'yquem 1990 <span class="price">900$</span></h5>
-                                        <p>Dessert Wine, Bordeaux, Graves, Sauternes</p>
-                                    </div>
-                                </div>
-                                <div class="col-md-5 offset-md-2">
-                                    <div class="menu-info">
-                                        <h5>La Grande Année 2007 <span class="price">400$</span></h5>
-                                        <p>Rosé, Champagne</p>
-                                    </div>
-                                    <div class="menu-info">
-                                        <h5>Sine Qua Non 2012 <span class="price">520$</span></h5>
-                                        <p>Syrah, Shiraz & Blends, California</p>
-                                    </div>
-                                    <div class="menu-info">
-                                        <h5>W.S. Keyes Winery 2006 <span class="price">240$</span></h5>
-                                        <p>Merlot, California, Napa, Howell Mountain</p>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                        <!-- Breakfast -->
-                        <div id="tab-5-content" class="cont">
-                            <div class="row">
-                                <div class="col-md-5">
-                                    <div class="menu-info">
-                                        <h5>Egg Benedict <span class="price">60$</span></h5>
-                                        <p>English muffin, beef, hollandaise sauce, poached egg.</p>
-                                    </div>
-                                    <div class="menu-info">
-                                        <h5>Texas Benedict <span class="price">30$</span></h5>
-                                        <p>English muffin, short ribs, bbq sauce, poached egg.</p>
-                                    </div>
-                                    <div class="menu-info">
-                                        <h5>Rusty’s Omlette <span class="price">22$</span></h5>
-                                        <p>Mozzarella, cheddar, caramelized onion, black beans.</p>
-                                    </div>
-                                </div>
-                                <div class="col-md-5 offset-md-2">
-                                    <div class="menu-info">
-                                        <h5>Salmon Bagel <span class="price">30$</span></h5>
-                                        <p>Smoked salmon, cream cheese, dill, rocket, red onion.</p>
-                                    </div>
-                                    <div class="menu-info">
-                                        <h5>Breakfast Bagel <span class="price">33$</span></h5>
-                                        <p>Chocolate, marshmallow, biscuit bar</p>
-                                    </div>
-                                    <div class="menu-info">
-                                        <h5>Rusty’s Pancake <span class="price">40$</span></h5>
-                                        <p>Strawberry, white chocolate, dark chocolate, crispearls</p>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                        <!-- Dessert -->
-                        <div id="tab-6-content" class="cont">
-                            <div class="row">
-                                <div class="col-md-5">
-                                    <div class="menu-info">
-                                        <h5>Bourbon Pecan Pie <span class="price">67$</span></h5>
-                                        <p>Bourbon pecan stuffed pie, vanilla ice-cream</p>
-                                    </div>
-                                    <div class="menu-info">
-                                        <h5>New York Cheesecake <span class="price">50$</span></h5>
-                                        <p>Cheesecake, strawberry & lime salad</p>
-                                    </div>
-                                    <div class="menu-info">
-                                        <h5>Rusty’s ice-cream <span class="price">32$</span></h5>
-                                        <p>Vanilla, bourbon, cookie, chocolate ice-cream</p>
-                                    </div>
-                                </div>
-                                <div class="col-md-5 offset-md-2">
-                                    <div class="menu-info">
-                                        <h5>S’mores <span class="price">40$</span></h5>
-                                        <p>Chocolate chip cookies, marshmallow, chocolate</p>
-                                    </div>
-                                    <div class="menu-info">
-                                        <h5>Rocky Road <span class="price">42$</span></h5>
-                                        <p>Chocolate, marshmallow, biscuit bar</p>
-                                    </div>
-                                    <div class="menu-info">
-                                        <h5>Apple & Pear Crumble <span class="price">42$</span></h5>
-                                        <p>Caramelized pear, oat crumble, vanilla ice-cream</p>
-                                    </div>
+        <div class="row ">
+            <div class="col-md-6 about mb-60 animate-box" data-animate-effect="fadeInUp">
+                <div class="about-frame">
+                    <div class="row">
+                        <div class="col-md-12">
+                            <div class="frame-img">
+                                <div class="img mb-20">
+                                    <img style="width: 21rem;" src="img/02.png?=1" alt="">
                                 </div>
                             </div>
                         </div>
                     </div>
                 </div>
             </div>
+            <div class="col-md-6 mb-60 animate-box" data-animate-effect="fadeInUp">
+                <span class="section-subtitle">
+                    “La muerte siendo parte de la Vida que se materializa en el altar ofrecido”.
+                </span>
+                <h2 class="section-title">¿Qué es Ofrenda?</h2>
+                <p>
+                    Fiesta donde honramos el recuerdo de
+                    nuestros seres queridos que han partido.
+                    Presentando una de las tradiciones más
+                    importantes de la cultura mexicana… Día de
+                    Muertos. Siendo este el escenario perfecto
+                    para compartir nuestra gastronomía y
+                    tradiciones ancestrales que nos enorgullecen
+                    como Mexicanos.
+                </p>
+                <p>
+                    “La muerte siendo parte de la Vida que
+                    se materializa en el altar ofrecido”.
+                </p>
+
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-md-12 text-center animate-box" data-animate-effect="fadeInUp">
+                <span class="section-subtitle">Consigue tus boletos</span>
+                <h2 class="section-title">Ofrenda by Inferno Fest</h2>
+            </div>
+            <div class="col-8 col-md-12 animate-box text-center" style="margin-top: 2rem;" data-animate-effect="fadeInUp">
+                <div class="timer_line ">
+                    <time id="timer" datetime="2023-11-01"></time> <br> <br>
+                    <a href="index.html" class="butn butn-dark"> <span>Comprar Boletos</span></a>
+                </div>
+            </div>
+            <div class="col-4 col-md-3 animate-box align-items-center" style="margin-top: 2rem;" data-animate-effect="fadeInUp">
+                
+            </div>
         </div>
     </div>
 </section>
 <!-- Promo video - Opening hours -->
 <section class="video-opening-hours-section">
-    <div class="background bg-img bg-img-fixed section-padding pb-0" data-background="img/banner.jpg"
-        data-overlay-dark="5">
+    <div class="background bg-img bg-img-fixed section-padding pb-0" data-background="img/banner.jpg" data-overlay-dark="5">
         <div class="container">
             <div class="row">
                 <!-- Promo video -->
@@ -498,8 +330,7 @@
     </div>
 </section>
 <!-- Testimonials -->
-<section class="testimonials section-padding bg-img bg-fixed pos-re" data-overlay-dark="6"
-    data-background="img/banner.jpg">
+<section class="testimonials section-padding bg-img bg-fixed pos-re" data-overlay-dark="6" data-background="img/banner.jpg">
     <div class="container">
         <div class="row">
             <div class="offset-md-3 col-md-6">
@@ -550,8 +381,7 @@
                             <div class="cont">
                                 <h6><a href="blog.html">Meat and Poultry Recipes</a></h6>
                                 <p>Maecenas viverra lorem eget ex mollis the ute gravida est luctus. Maecenas eu tellus
-                                    vel nunc ullamcorper iaculis non varius turpis.</p> <a href="blog.html"
-                                    class="more">Details <i class="ti-angle-double-right"></i></a>
+                                    vel nunc ullamcorper iaculis non varius turpis.</p> <a href="blog.html" class="more">Details <i class="ti-angle-double-right"></i></a>
                             </div>
                         </div>
                     </div>
@@ -563,8 +393,7 @@
                             <div class="cont">
                                 <h6><a href="post.html">Easy Mongolian Beef Recipes</a></h6>
                                 <p>Maecenas viverra lorem eget ex mollis the ute gravida est luctus. Maecenas eu tellus
-                                    vel nunc ullamcorper iaculis non varius turpis.</p> <a href="post.html"
-                                    class="more">Details <i class="ti-angle-double-right"></i></a>
+                                    vel nunc ullamcorper iaculis non varius turpis.</p> <a href="post.html" class="more">Details <i class="ti-angle-double-right"></i></a>
                             </div>
                         </div>
                     </div>
@@ -576,8 +405,7 @@
                             <div class="cont">
                                 <h6><a href="post.html">Recipe for a Delicious Cake</a></h6>
                                 <p>Maecenas viverra lorem eget ex mollis the ute gravida est luctus. Maecenas eu tellus
-                                    vel nunc ullamcorper iaculis non varius turpis.</p> <a href="post.html"
-                                    class="more">Details <i class="ti-angle-double-right"></i></a>
+                                    vel nunc ullamcorper iaculis non varius turpis.</p> <a href="post.html" class="more">Details <i class="ti-angle-double-right"></i></a>
                             </div>
                         </div>
                     </div>
