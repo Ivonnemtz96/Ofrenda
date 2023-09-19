@@ -1,65 +1,49 @@
 <!-- Slider -->
 <header class="header slider-fade">
     <div class="owl-carousel owl-theme">
-        <div class="text-left item bg-img" data-overlay-dark="4" data-background="img/slider/1.jpg">
+        <div class="text-left item bg-img" data-overlay-dark="1" data-background="img/slider/slider.png">
             <div class="v-middle caption mt-30">
                 <div class="container">
                     <div class="row">
                         <div class="col-md-8">
-                            <div class="o-hidden">
+                            <!-- <div class="o-hidden">
                                 <h4>Welcome to Winta</h4>
                                 <h1>Steakhouse + Bar</h1>
                                 <a href="https://1.envato.market/winta" target="_blank" class="butn butn-dark">
                                     <span>BUY NOW</span></a>
-                            </div>
+                            </div> -->
                         </div>
                     </div>
                 </div>
             </div>
         </div>
-        <div class="text-left item bg-img" data-overlay-dark="4" data-background="img/slider/2.jpg">
+        <div class="text-left item bg-img" data-overlay-dark="1" data-background="img/slider/slider2.jpg">
             <div class="v-middle caption mt-30">
                 <div class="container">
                     <div class="row">
                         <div class="col-md-8">
-                            <div class="o-hidden">
+                            <!-- <div class="o-hidden">
                                 <h4>Winta Steakhouse + Bar</h4>
                                 <h1>Explore Our Menu</h1>
                                 <a href="https://1.envato.market/winta" target="_blank" class="butn butn-dark">
                                     <span>BUY NOW</span></a>
-                            </div>
+                            </div> -->
                         </div>
                     </div>
                 </div>
             </div>
         </div>
-        <div class="text-left item bg-img" data-overlay-dark="4" data-background="img/slider/3.jpg">
+        <div class="text-left item bg-img" data-overlay-dark="1" data-background="img/slider/slider3.jpg">
             <div class="v-middle caption mt-30">
                 <div class="container">
                     <div class="row">
                         <div class="col-md-8">
-                            <div class="o-hidden">
+                            <!-- <div class="o-hidden">
                                 <h4>Welcome to Winta</h4>
                                 <h1>Steakhouse + Bar</h1>
                                 <a href="https://1.envato.market/winta" target="_blank" class="butn butn-dark">
                                     <span>Buy Now</span></a>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-        <div class="text-left item bg-img" data-overlay-dark="4" data-background="img/slider/4.jpg">
-            <div class="v-middle caption mt-30">
-                <div class="container">
-                    <div class="row">
-                        <div class="col-md-8">
-                            <div class="o-hidden">
-                                <h4>Winta Steakhouse + Bar</h4>
-                                <h1>Explore Our Menu</h1>
-                                <a href="https://1.envato.market/winta" target="_blank" class="butn butn-dark">
-                                    <span>Buy Now</span></a>
-                            </div>
+                            </div> -->
                         </div>
                     </div>
                 </div>

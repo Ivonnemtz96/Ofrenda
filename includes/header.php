@@ -4,7 +4,7 @@
          <!-- Logo -->
          <div class="logo-wrapper valign">
              <div class="logo">
-                 <h2><a href="index.html">winta</a><span>Steakhouse+Bar</span></h2>
+                 <img style="width: 4rem;" src="img/logo_ofrenda.png" alt="">
              </div>
          </div>
          <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent"
