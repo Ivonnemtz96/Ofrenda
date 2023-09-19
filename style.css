@@ -857,7 +857,7 @@ header {
   background-position: bottom center;
   padding: 220px 0px 147px 0px;
   margin-top: -106px;
-  background-image: url(img/background-overlay-title.html);
+  background-image: url(/img/background-overlay-title.html);
 }
 
 .page-title-wrap {
@@ -914,7 +914,7 @@ header {
 
 .image-background {
   position: absolute;
-  background-image: url(img/we-can-dance-forever2.png);
+  background-image: url(/img/we-can-dance-forever2.png);
   left: 0;
   right: 0;
   top: 0;
@@ -1094,7 +1094,7 @@ header {
 /*  3d.  TABLE EVENTS SECTION
 /*-----------------------------------------------------------------------------------*/
 .table-events {
-  background-image: url(img/event-bg.png);
+  background-image: url(/img/event-bg.png);
   background-position: center center;
   background-size: cover;
   background-attachment: fixed;
@@ -1221,7 +1221,7 @@ header {
 }
 
 .single-event-wrap .event-counter {
-  background-image: url("img/event-bg.png");
+  background-image: url("/img/event-bg.png");
 }
 
 .single-event-content-wrap .event-ticket span.price {
@@ -1429,7 +1429,7 @@ header {
 /*  3f.  TESTIMONIAL SECTION
 /*-----------------------------------------------------------------------------------*/
 .testimonial-block {
-  background-image: url(img/testimonial-bg.png);
+  background-image: url(/img/testimonial-bg.png);
   position: relative;
   padding: 290px 0px 210px 0px;
   background-size: cover;
@@ -1479,7 +1479,7 @@ header {
 }
 
 .testimonial-background {
-  background-image: url(img/testimonial-cover.png);
+  background-image: url(/img/testimonial-cover.png);
   background-size: cover;
   position: absolute;
   right: 0;
@@ -1861,7 +1861,7 @@ header {
 /*-----------------------------------------------------------------------------------*/
 /*Waiting*/
 .waiting-block {
-  background-image: url(img/banner-reservation-bg.png);
+  background-image: url(/img/banner-reservation-bg.png);
   position: relative;
   padding: 170px 0px 105px 0px;
   background-size: cover;
@@ -2170,7 +2170,7 @@ header {
 }
 
 .event-thumbnail .thumb-inner span {
-  background-image: url(img/img-bord.png);
+  background-image: url(/img/img-bord.png);
   content: "";
   height: 300px;
   width: 300px;
@@ -2469,7 +2469,7 @@ td.tab-content.artist {
 }
 
 .event-thumbnail .thumb-inner span {
-  background-image: url(img/img-bord.png);
+  background-image: url(/img/img-bord.png);
   content: "";
   height: 300px;
   width: 300px;

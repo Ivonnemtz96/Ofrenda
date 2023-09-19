@@ -1,7 +1,7 @@
 <!-- Slider -->
 <header class="header slider-fade">
     <div class="owl-carousel owl-theme">
-        <div class="text-left item bg-img" data-overlay-dark="1" data-background="img/slider/slider.png">
+        <div class="text-left item bg-img" data-overlay-dark="1" data-background="/img/slider/slider.png">
             <div class="v-middle caption mt-30">
                 <div class="container">
                     <div class="row">
@@ -17,7 +17,7 @@
                 </div>
             </div>
         </div>
-        <div class="text-left item bg-img" data-overlay-dark="1" data-background="img/slider/slider2.jpg">
+        <div class="text-left item bg-img" data-overlay-dark="1" data-background="/img/slider/slider2.jpg">
             <div class="v-middle caption mt-30">
                 <div class="container">
                     <div class="row">
@@ -33,7 +33,7 @@
                 </div>
             </div>
         </div>
-        <div class="text-left item bg-img" data-overlay-dark="1" data-background="img/slider/slider3.jpg">
+        <div class="text-left item bg-img" data-overlay-dark="1" data-background="/img/slider/slider3.jpg">
             <div class="v-middle caption mt-30">
                 <div class="container">
                     <div class="row">
@@ -84,6 +84,8 @@
                     ofrecido”
                 </p>
 
+                <a href="index.html" class="butn butn-dark"> <span>Ver más</span></a>
+
             </div>
             <div class="col-md-6 about mb-60 animate-box" data-animate-effect="fadeInUp">
                 <div class="about-frame">
@@ -91,13 +93,13 @@
                         <div class="col-md-12">
                             <div class="frame-img">
                                 <div class="img mb-20">
-                                    <img src="img/about1.jpg?=1" alt="">
+                                    <img src="/img/about1.jpg?=1" alt="">
                                 </div>
                             </div>
                         </div>
                         <div class="col-md-7">
                             <div class="frame-img">
-                                <div class="img"> <img src="img/about2.jpg?=1" alt=""> </div>
+                                <div class="img"> <img src="/img/about2.jpg?=1" alt=""> </div>
                             </div>
                         </div>
                         <div class="col-md-5">
@@ -124,7 +126,7 @@
                         <div class="col-md-12">
                             <div class="frame-img">
                                 <div class="img mb-20">
-                                    <img style="width: 21rem;" src="img/02.png?=1" alt="">
+                                    <img style="width: 21rem;" src="/img/02.png?=1" alt="">
                                 </div>
                             </div>
                         </div>
@@ -150,7 +152,6 @@
                     “La muerte siendo parte de la Vida que
                     se materializa en el altar ofrecido”.
                 </p>
-
             </div>
         </div>
         <div class="row">
@@ -165,14 +166,14 @@
                 </div>
             </div>
             <div class="col-4 col-md-3 animate-box align-items-center" style="margin-top: 2rem;" data-animate-effect="fadeInUp">
-                
+
             </div>
         </div>
     </div>
 </section>
 <!-- Promo video - Opening hours -->
 <section class="video-opening-hours-section">
-    <div class="background bg-img bg-img-fixed section-padding pb-0" data-background="img/banner.jpg" data-overlay-dark="5">
+    <div class="background bg-img bg-img-fixed section-padding pb-0" data-background="/img/banner.jpg" data-overlay-dark="5">
         <div class="container">
             <div class="row">
                 <!-- Promo video -->
@@ -330,7 +331,7 @@
     </div>
 </section>
 <!-- Testimonials -->
-<section class="testimonials section-padding bg-img bg-fixed pos-re" data-overlay-dark="6" data-background="img/banner.jpg">
+<section class="testimonials section-padding bg-img bg-fixed pos-re" data-overlay-dark="6" data-background="/img/banner.jpg">
     <div class="container">
         <div class="row">
             <div class="offset-md-3 col-md-6">
@@ -376,7 +377,7 @@
                     <div class="col-md-4">
                         <div class="item animate-box" data-animate-effect="fadeInUp">
                             <div class="post-img">
-                                <div class="img"> <img src="img/blog/1.jpg" alt="img"> </div>
+                                <div class="img"> <img src="/img/blog/1.jpg" alt="img"> </div>
                             </div>
                             <div class="cont">
                                 <h6><a href="blog.html">Meat and Poultry Recipes</a></h6>
@@ -388,7 +389,7 @@
                     <div class="col-md-4">
                         <div class="item animate-box" data-animate-effect="fadeInUp">
                             <div class="post-img">
-                                <div class="img"> <img src="img/blog/2.jpg" alt="img"> </div>
+                                <div class="img"> <img src="/img/blog/2.jpg" alt="img"> </div>
                             </div>
                             <div class="cont">
                                 <h6><a href="post.html">Easy Mongolian Beef Recipes</a></h6>
@@ -400,7 +401,7 @@
                     <div class="col-md-4">
                         <div class="item animate-box" data-animate-effect="fadeInUp">
                             <div class="post-img">
-                                <div class="img"> <img src="img/blog/3.jpg" alt="img"> </div>
+                                <div class="img"> <img src="/img/blog/3.jpg" alt="img"> </div>
                             </div>
                             <div class="cont">
                                 <h6><a href="post.html">Recipe for a Delicious Cake</a></h6>
