@@ -154,33 +154,99 @@
                 </p>
             </div>
         </div>
-        <div class="row">
+        <div class="row" style="margin-bottom:5rem;">
             <div class="col-md-12 text-center animate-box" data-animate-effect="fadeInUp">
                 <span class="section-subtitle">Consigue tus boletos</span>
                 <h2 class="section-title">Ofrenda by Inferno Fest</h2>
             </div>
-            <div class="col-8 col-md-12 animate-box text-center" style="margin-top: 2rem;" data-animate-effect="fadeInUp">
+            <div class="col-8 col-md-12 animate-box text-center" style="margin-top: 2rem;"
+                data-animate-effect="fadeInUp">
                 <div class="timer_line ">
                     <time id="timer" datetime="2023-11-01"></time> <br> <br>
                     <a href="index.html" class="butn butn-dark"> <span>Comprar Boletos</span></a>
                 </div>
             </div>
-            <div class="col-4 col-md-3 animate-box align-items-center" style="margin-top: 2rem;" data-animate-effect="fadeInUp">
-
+        </div>
+    </div>
+</section>
+<!-- Organizadores -->
+<section class="menus menu section-padding">
+    <div class="container">
+        <div class="row justify-content-center align-items-center">
+            <div class="col-md-4 mb-60 animate-box" data-animate-effect="fadeInUp">
+                <span class="section-subtitle">
+                    Un gran equipo para un gran evento.
+                </span>
+                <h2 class="section-title" style="text-transform: none;">Organizadores <br> Edición 2023</h2>
+            </div>
+            <div class="col-md-8 about mb-60 animate-box text-center" data-animate-effect="fadeInUp">
+                <div class="row">
+                    <div class="col-md-4">
+                        <img src="/img/org/03.png" alt="Ofrenda by Inferno Fest" class="img-org">
+                        <h5>
+                            Abrahan Tamez
+                        </h5>
+                        <p>
+                            Chef Fundador.
+                        </p>
+                    </div>
+                    <div class="col-md-4">
+                        <img src="/img/org/04.png" alt="Ofrenda by Inferno Fest" class="img-org">
+                        <h5>Tree House</h5>
+                        <p>
+                            Empresa de equipos audiovisuales con más de 20 años de experiencia.
+                        </p>
+                    </div>
+                    <div class="col-md-4">
+                        <img src="/img/org/06.png" alt="Ofrenda by Inferno Fest" class="img-org">
+                        <h5>Meatallica</h5>
+                        <p>
+                            Así es como la revista Playboy nombró a los fundadores de Inferno Fest.
+                        </p>
+                    </div>
+                    <div class="col-md-4">
+                        <img src="/img/org/07.png" alt="Ofrenda by Inferno Fest" class="img-org">
+                        <h5>Mayari Machado</h5>
+                        <p>
+                            Head Producer con 10 años de experiencia en producción de eventos y festivales.
+                        </p>
+                    </div>
+                    <div class="col-md-4">
+                        <img src="/img/org/08.png" alt="Ofrenda by Inferno Fest" class="img-org">
+                        <h5>Venue</h5>
+                    </div>
+                    <div class="col-md-4">
+                        <img src="/img/org/09.png" alt="Ofrenda by Inferno Fest" class="img-org">
+                        <h5>Con el apoyo de FITURCA</h5>
+                    </div>
+                    <div class="col-md-4">
+                        <img src="/img/org/10.png" alt="Ofrenda by Inferno Fest" class="img-org">
+                        <h5>Ayuntamiento de Los Cabos</h5>
+                    </div>
+                </div>
+                <!-- <div class="about-frame">
+                    <div class="frame-img">
+                        <div class="img mb-20">
+                            <img style="width: 21rem;" src="/img/05.jpg?=1" alt="">
+                        </div>
+                    </div>
+                </div> -->
             </div>
         </div>
     </div>
 </section>
+
 <!-- Promo video - Opening hours -->
 <section class="video-opening-hours-section">
-    <div class="background bg-img bg-img-fixed section-padding pb-0" data-background="/img/banner.jpg" data-overlay-dark="5">
+    <div class="background bg-img bg-img-fixed section-padding pb-0" data-background="/img/banner/banner.jpg?=1"
+        data-overlay-dark="5">
         <div class="container">
             <div class="row">
                 <!-- Promo video -->
                 <div class="col-md-6">
                     <div class="vid-area">
                         <div class="vid-icon">
-                            <a class="play-button vid" href="https://vimeo.com/148220868">
+                            <a class="play-button vid" href="https://vimeo.com/380391323/">
                                 <svg class="circle-fill">
                                     <circle cx="43" cy="43" r="39" stroke="#fff" stroke-width=".5"></circle>
                                 </svg>
@@ -191,7 +257,7 @@
                                 </span> </a>
                         </div>
                         <div class="cont mt-15 mb-30">
-                            <h3>View <span>Promo Video</span></h3>
+                            <h3>Mira el <span>video de la edición anterior</span></h3>
                         </div>
                     </div>
                 </div>
@@ -199,30 +265,26 @@
                 <div class="col-md-5 offset-md-1">
                     <div class="opening-hours-box animate-box" data-animate-effect="fadeInUp">
                         <div class="head-box">
-                            <h6>Call For Reservations</h6>
-                            <h4>Opening Hours</h4>
+                            <h6>El evento temático más grande de Los Cabos</h6>
+                            <h4>Fechas</h4>
                         </div>
                         <div class="content-box">
                             <div class="item">
                                 <div class="info">
                                     <div class="row">
-                                        <div class="col col-md-6">
+                                        <div class="col col-md-12">
                                             <div class="cont">
-                                                <h6 class="day">Sunday to Tuesday</h6> <span class="time">10:00</span>
-                                                <br> <span class="time">22:00</span>
-                                            </div>
-                                        </div>
-                                        <div class="col col-md-6">
-                                            <div class="cont">
-                                                <h6 class="day">Friday to Saturday</h6> <span class="time">12:00</span>
-                                                <br> <span class="time">19:00</span>
+                                                <h4 class="time">Agenda</h4>
+                                                <h3><span style="color: #000;">Del 3 al 5</span>
+                                                    <br> <span class="time">De Noviembre</span>
+                                                </h3>
                                             </div>
                                         </div>
                                     </div>
                                 </div>
                             </div>
                         </div>
-                        <a href="index.html" class="butn mt-30"> <span>+1 203-123-0606</span></a>
+                        <a href="#" class="butn mt-30"> <span>Comprar Boletos</span></a>
                     </div>
                 </div>
             </div>
@@ -232,106 +294,23 @@
 <section class="section-padding">
     <div class="container">
         <div class="row">
-            <div class="col-md-7">
-                <h6>Want to cook something tasty? Read our best recipes.</h6>
-                <a href="index.html" class="butn butn-dark"> <span>Recipes Book</span></a>
+            <div class="col-md-12">
+                <div class="col-md-6 mb-60 animate-box" data-animate-effect="fadeInUp">
+                    <h2 class="section-title" style="text-transform: none;">Ediciones <br> Anteriores</h2>
+                    <span class="section-subtitle">
+                        Estos fueron nuestros números.
+                    </span>
+                </div>
+                <img src="/img/08.png" alt="">
+                <a href="/about.php" class="butn butn-dark"> <span>Ver más</span></a>
             </div>
         </div>
     </div>
 </section>
-<!-- Menu Dishes -->
-<section class="menu-today section-padding bg-lightcolor">
-    <div class="container">
-        <div class="row">
-            <div class="col-md-12 mb-30">
-                <span class="section-subtitle">Steak & Wine</span>
-                <h2 class="section-title">Today's <span>Menu</span></h2>
-            </div>
-        </div>
-        <div class="row">
-            <div class="col-md-4">
-                <div class="menu-today-container">
-                    <div class="menu-today-img-area"><span class="icon flaticon-022-tray"></span></div>
-                    <div class="menu-today-text-area">
-                        <h4 class="menu-today-heading">Starters</h4>
-                        <ul>
-                            <li>Mozzarella Dippers ........ $27</li>
-                            <li>Onion Rings ........ $32</li>
-                            <li>Fried Jalapeno ........ $52</li>
-                        </ul>
-                    </div>
-                </div>
-            </div>
-            <div class="col-md-4">
-                <div class="menu-today-container">
-                    <div class="menu-today-img-area"><span class="icon flaticon-034-cow"></span></div>
-                    <div class="menu-today-text-area">
-                        <h4 class="menu-today-heading">Mains</h4>
-                        <ul>
-                            <li>Rusty’s Burger ........ $27</li>
-                            <li>Cajun Fish Steak ........ $32</li>
-                            <li>Southern Fried Chicken ........ $52</li>
-                        </ul>
-                    </div>
-                </div>
-            </div>
-            <div class="col-md-4">
-                <div class="menu-today-container">
-                    <div class="menu-today-img-area"><span class="icon flaticon-013-salad"></span></div>
-                    <div class="menu-today-text-area">
-                        <h4 class="menu-today-heading">Salads</h4>
-                        <ul>
-                            <li>Ceaser Salad ........ $47</li>
-                            <li>Waldorf Salad ........ $52</li>
-                            <li>Quinoa & Avocado Salad ........ $52</li>
-                        </ul>
-                    </div>
-                </div>
-            </div>
-            <div class="col-md-4">
-                <div class="menu-today-container">
-                    <div class="menu-today-img-area"><span class="icon flaticon-001-wine"></span></div>
-                    <div class="menu-today-text-area">
-                        <h4 class="menu-today-heading">Wines</h4>
-                        <ul>
-                            <li>Château d'Yquem 2011 ........ $35</li>
-                            <li>Chateau D'yquem 1990 ........ $52</li>
-                            <li>Alvear Cream NV ........ $52</li>
-                        </ul>
-                    </div>
-                </div>
-            </div>
-            <div class="col-md-4">
-                <div class="menu-today-container">
-                    <div class="menu-today-img-area"><span class="icon flaticon-025-coffee"></span></div>
-                    <div class="menu-today-text-area">
-                        <h4 class="menu-today-heading">Breakfast</h4>
-                        <ul>
-                            <li>Egg Benedict ........ $65</li>
-                            <li>Texas Benedict ........ $52</li>
-                            <li>Rusty’s Omlette ........ $32</li>
-                        </ul>
-                    </div>
-                </div>
-            </div>
-            <div class="col-md-4">
-                <div class="menu-today-container">
-                    <div class="menu-today-img-area"><span class="icon flaticon-016-pancake"></span></div>
-                    <div class="menu-today-text-area">
-                        <h4 class="menu-today-heading">Dessert</h4>
-                        <ul>
-                            <li>Bourbon Pecan Pie ........ $50</li>
-                            <li>New York Cheesecake ........ $32</li>
-                            <li>Rusty’s ice-cream ........ $22</li>
-                        </ul>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-</section>
+
 <!-- Testimonials -->
-<section class="testimonials section-padding bg-img bg-fixed pos-re" data-overlay-dark="6" data-background="/img/banner.jpg">
+<section class="testimonials section-padding bg-img bg-fixed pos-re" data-overlay-dark="6"
+    data-background="/img/banner.jpg">
     <div class="container">
         <div class="row">
             <div class="offset-md-3 col-md-6">
@@ -356,59 +335,6 @@
                         </div>
                         <p>The name Winta, in principle, quite fully describes the restaurant's concept: red meat and
                             red wine - what else is needed for a steakhouse!</p>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-</section>
-<!-- News -->
-<section class="newshome section-padding">
-    <div class="container">
-        <div class="row">
-            <div class="col-md-12 mb-30">
-                <span class="section-subtitle">Latest News</span>
-                <h2 class="section-title">Our <span>Recipes</span></h2>
-            </div>
-        </div>
-        <div class="row">
-            <div class="col-md-12">
-                <div class="row">
-                    <div class="col-md-4">
-                        <div class="item animate-box" data-animate-effect="fadeInUp">
-                            <div class="post-img">
-                                <div class="img"> <img src="/img/blog/1.jpg" alt="img"> </div>
-                            </div>
-                            <div class="cont">
-                                <h6><a href="blog.html">Meat and Poultry Recipes</a></h6>
-                                <p>Maecenas viverra lorem eget ex mollis the ute gravida est luctus. Maecenas eu tellus
-                                    vel nunc ullamcorper iaculis non varius turpis.</p> <a href="blog.html" class="more">Details <i class="ti-angle-double-right"></i></a>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-md-4">
-                        <div class="item animate-box" data-animate-effect="fadeInUp">
-                            <div class="post-img">
-                                <div class="img"> <img src="/img/blog/2.jpg" alt="img"> </div>
-                            </div>
-                            <div class="cont">
-                                <h6><a href="post.html">Easy Mongolian Beef Recipes</a></h6>
-                                <p>Maecenas viverra lorem eget ex mollis the ute gravida est luctus. Maecenas eu tellus
-                                    vel nunc ullamcorper iaculis non varius turpis.</p> <a href="post.html" class="more">Details <i class="ti-angle-double-right"></i></a>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-md-4">
-                        <div class="item animate-box" data-animate-effect="fadeInUp">
-                            <div class="post-img">
-                                <div class="img"> <img src="/img/blog/3.jpg" alt="img"> </div>
-                            </div>
-                            <div class="cont">
-                                <h6><a href="post.html">Recipe for a Delicious Cake</a></h6>
-                                <p>Maecenas viverra lorem eget ex mollis the ute gravida est luctus. Maecenas eu tellus
-                                    vel nunc ullamcorper iaculis non varius turpis.</p> <a href="post.html" class="more">Details <i class="ti-angle-double-right"></i></a>
-                            </div>
-                        </div>
                     </div>
                 </div>
             </div>
