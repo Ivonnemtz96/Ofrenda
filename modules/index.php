@@ -116,7 +116,7 @@
         </div>
     </div>
 </section>
-<!-- Menus -->
+<!-- Ofrenda -->
 <section class="menus menu section-padding bg-lightcolor">
     <div class="container">
         <div class="row ">
