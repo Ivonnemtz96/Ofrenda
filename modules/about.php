@@ -86,7 +86,7 @@
                         <div class="col-md-12">
                             <div class="frame-img">
                                 <div class="img mb-20">
-                                    <img style="width: 21rem;" src="/img/02.png?=1" alt="">
+                                    <img style="width: 21rem;" src="/img/05.jpg?=1" alt="">
                                 </div>
                             </div>
                         </div>
@@ -97,20 +97,11 @@
                 <span class="section-subtitle">
                     “La muerte siendo parte de la Vida que se materializa en el altar ofrecido”.
                 </span>
-                <h2 class="section-title">¿Qué es Ofrenda?</h2>
+                <h2 class="section-title" style="text-transform: none;">¿Por qué en Los Cabos?</h2>
                 <p>
-                    Fiesta donde honramos el recuerdo de
-                    nuestros seres queridos que han partido.
-                    Presentando una de las tradiciones más
-                    importantes de la cultura mexicana… Día de
-                    Muertos. Siendo este el escenario perfecto
-                    para compartir nuestra gastronomía y
-                    tradiciones ancestrales que nos enorgullecen
-                    como Mexicanos.
-                </p>
-                <p>
-                    “La muerte siendo parte de la Vida que
-                    se materializa en el altar ofrecido”.
+                    Los Cabos expresa lo mejor de México a nivel mundial, donde convergen distintas culturas
+                    gastronómicas
+                    y se origina una tribu única que disfruta de los ingredientes locales.
                 </p>
             </div>
         </div>
@@ -134,59 +125,102 @@
     </div>
 </section>
 
-<!-- Ofrenda -->
-<section class="menus menu section-padding bg-lightcolor">
+<!-- Team -->
+<section class="team section-padding">
     <div class="container">
-        <div class="row ">
-            <div class="col-md-6 about mb-60 animate-box" data-animate-effect="fadeInUp">
-                <div class="about-frame">
-                    <div class="row">
-                        <div class="col-md-12">
-                            <div class="frame-img">
-                                <div class="img mb-20">
-                                    <img style="width: 21rem;" src="/img/02.png?=1" alt="">
-                                </div>
-                            </div>
-                        </div>
+        <div class="row">
+            <div class="col-md-12 mb-30"> <span class="section-subtitle">Creadores</span>
+                <h2 class="section-title">Ofrenda <span>By Inferno Fest</span></h2>
+            </div>
+        </div>
+        <div class="row justify-content-center align-items-center">
+            <div class="col-6 col-md-6 mb-5" style="margin-bottom: 2rem !important;">
+                <div class="infos animate-box" data-animate-effect="fadeInUp">
+                    <h3>Fundador</h3>
+                    <h6><span>Chef.</span> Abraham Tamez</h6>
+                    <p>
+                        Apasionado por el buen comer, el chef
+                        Abraham Tamez es conocido como
+                        el rebelde de la gastronomía en Baja
+                        Sur, es un amante excéntrico
+                        de la cocina mexicana y de sus raices
+                        prehispánicas por lo que decide dar vida
+                        a Inferno Fest como tributo a nuestras
+                        más primitivas raíces gastronómicas.
+                    </p>
+                </div>
+            </div>
+            <div class="col-6 col-md-6 mb-5" style="margin-bottom: 2rem !important;">
+                <div class="item animate-box" data-animate-effect="fadeInUp">
+                    <div class="team-img">
+                        <div class="img"><img style="width: 22rem;" src="/img/team/4.jpg" alt="img"></div>
+                    </div>
+
+                </div>
+            </div>
+            <!-- Co-fundadores -->
+            <div class="col-md-12" style="margin-top: 2rem;">
+                <div class="container text-center animate-box" data-animate-effect="fadeInUp">
+                    <h2 class="section-title">Co- <span>fundadores</span></h2>
+                    <img src="/img/06.png" alt="">
+                </div>
+            </div>
+            <!-- Texto -->
+
+            <div class="col-md-3 mt-5">
+                <div class="item animate-box" data-animate-effect="fadeInUp">
+                    <div class="infos">
+                        <h6><span>1.</span> Emanuele Olivero</h6>
+                        <p>La experiencia y trayectoria por
+                            este mundo se ve reflejado en su
+                            arte culinario. Dejando un legado
+                            para las nuevas generaciones.</p>
                     </div>
                 </div>
             </div>
-            <div class="col-md-6 mb-60 animate-box" data-animate-effect="fadeInUp">
-                <span class="section-subtitle">
-                    “La muerte siendo parte de la Vida que se materializa en el altar ofrecido”.
-                </span>
-                <h2 class="section-title">¿Qué es Ofrenda?</h2>
-                <p>
-                    Fiesta donde honramos el recuerdo de
-                    nuestros seres queridos que han partido.
-                    Presentando una de las tradiciones más
-                    importantes de la cultura mexicana… Día de
-                    Muertos. Siendo este el escenario perfecto
-                    para compartir nuestra gastronomía y
-                    tradiciones ancestrales que nos enorgullecen
-                    como Mexicanos.
-                </p>
-                <p>
-                    “La muerte siendo parte de la Vida que
-                    se materializa en el altar ofrecido”.
-                </p>
-            </div>
-        </div>
-        <div class="row">
-            <div class="col-md-12 text-center animate-box" data-animate-effect="fadeInUp">
-                <span class="section-subtitle">Consigue tus boletos</span>
-                <h2 class="section-title">Ofrenda by Inferno Fest</h2>
-            </div>
-            <div class="col-8 col-md-12 animate-box text-center" style="margin-top: 2rem;"
-                data-animate-effect="fadeInUp">
-                <div class="timer_line ">
-                    <time id="timer" datetime="2023-11-01"></time> <br> <br>
-                    <a href="index.html" class="butn butn-dark"> <span>Comprar Boletos</span></a>
+            <div class="col-md-3 mt-5">
+                <div class="item animate-box" data-animate-effect="fadeInUp">
+                    <div class="infos">
+                        <h6><span>2.</span> Alberto Collarte</h6>
+                        <p>
+                            Considerado uno de los
+                            mejores parrilleros de la Baja Sur,
+                            apasionado por la sustentabilidad y
+                            la cocina fresca. <br><br>
+                        </p>
+                    </div>
                 </div>
             </div>
-            <div class="col-4 col-md-3 animate-box align-items-center" style="margin-top: 2rem;"
-                data-animate-effect="fadeInUp">
-
+            <div class="col-md-3 mt-5">
+                <div class="item animate-box" data-animate-effect="fadeInUp">
+                    <div class="infos">
+                        <h6><span>3.</span> Christian Ricci</h6>
+                        <p>
+                            Un artista a la hora de montar
+                            escenarios gastronómicos
+                            siempre cuidando su origen y la
+                            madre Italia que lo vio nacer.
+                        </p>
+                    </div>
+                </div>
+            </div>
+            <div class="col-md-3 mt-5">
+                <div class="item animate-box" data-animate-effect="fadeInUp">
+                    <div class="infos">
+                        <h6><span>4.</span> Cesar Pita</h6>
+                        <p>
+                            El catrín de la cocina espontánea
+                            siempre en la búsqueda de sabores
+                            exóticos que combinen cultura con
+                            el estilo de vida de la region.
+                        </p>
+                    </div>
+                </div>
+            </div>
+            <div class="col-md-12">
+                <div class="container animate-box" data-animate-effect="fadeInUp">
+                    <img src="/img/07.png" alt="">
+                </div>
             </div>
         </div>
     </div>
