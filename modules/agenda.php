@@ -217,6 +217,70 @@
                 <img src="/img/18.png" alt="">
             </div>
         </div>
+    </div>
+</section>
 
+
+<!-- Team -->
+<section class="team section-padding" style="padding-top: 0px;">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-12 mb-30"> <span class="section-subtitle">Creadores</span>
+                <h2 class="section-title">Ofrenda <span>By Inferno Fest</span></h2>
+            </div>
+        </div>
+        <div class="row justify-content-center align-items-center">
+            <!-- Texto -->
+
+            <div class="col-md-2 mt-5">
+                <div class="item animate-box" data-animate-effect="fadeInUp">
+                    <img src="/img/23.png" alt="">
+                    <div class="infos">
+                        <h6>Soundays y Coro Polifónico</h6>
+                        <a target="_blank" href="https://www.soundaysband.com/">
+                            <span> www.soundaysband.com</span>
+                        </a>
+                    </div>
+                </div>
+            </div>
+            <div class="col-md-2 mt-5">
+                <div class="item animate-box" data-animate-effect="fadeInUp">
+                    <img src="/img/24.png" alt="">
+                    <div class="infos">
+                        <h6>Luz y Fuerza del centro</h6>
+                        <a class=" vid" href="https://www.youtube.com/watch?v=fl_D1LeUbJY">
+                            <span> Ver video</span>
+                        </a>
+                    </div>
+                </div>
+            </div>
+            <div class="col-md-2 mt-5">
+                <div class="item animate-box" data-animate-effect="fadeInUp">
+                    <img src="/img/25.png" alt="">
+                    <div class="infos">
+                        <h6>Velázquez</h6> <br>
+                        <a class=" vid" href="https://www.youtube.com/watch?v=PqFn69GIlY8">
+                            <span> Ver video</span>
+                        </a> <br>
+                    </div>
+                </div>
+            </div>
+            <div class="col-md-2 mt-5">
+                <div class="item animate-box" data-animate-effect="fadeInUp">
+                    <img src="/img/26.png" alt="">
+                    <div class="infos">
+                        <h6>Por confirmar</h6><br><br>
+                    </div>
+                </div>
+            </div>
+            <div class="col-md-2 mt-5">
+                <div class="item animate-box" data-animate-effect="fadeInUp">
+                    <img src="/img/26.png" alt="">
+                    <div class="infos">
+                        <h6>Por confirmar</h6><br><br>
+                    </div>
+                </div>
+            </div>
+        </div>
     </div>
 </section>
