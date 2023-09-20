@@ -15,7 +15,16 @@
              <ul class="navbar-nav ml-auto">
                  <li class="nav-item"><a class="nav-link" href="/">Inicio</a></li>
                  <li class="nav-item"><a class="nav-link" href="/about">Sobre Nosotros</a></li>
-                 <li class="nav-item"><a class="nav-link" href="/">Fundador</a></li>
+                 <li class="nav-item"><a class="nav-link" href="/about#fundador">Fundador</a></li>
+                 <li class="nav-item dropdown"> <span class="nav-link"> Agenda <i class="ti-angle-down"></i></span>
+                     <ul class="dropdown-menu last">
+                         <li class="dropdown-item"><a href="/agenda#divina">La Divina Costilla</a></li>
+                         <li class="dropdown-item"><a href="/agenda#meatallica">Meatallica & Friends</a></li>
+                         <li class="dropdown-item"><a href="/agenda#celebridades">Chef Celebridades</a></li>
+                         <li class="dropdown-item"><a href="/agenda#invitados">Chef invitados</a></li>
+                         <li class="dropdown-item"><a href="/agenda#musica">Musica Por</a></li>
+                     </ul>
+                 </li>
                  <li class="nav-item"><a class="nav-link" href="/">Galería</a></li>
                  <li class="nav-item"><a class="nav-link" href="/agenda">Agenda</a></li>
                  <li class="nav-item"><a class="nav-link" href="/">Contacto</a></li>

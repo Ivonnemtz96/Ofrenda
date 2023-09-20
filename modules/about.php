@@ -127,7 +127,7 @@
 
 <!-- Team -->
 <section class="team section-padding">
-    <div class="container">
+    <div class="container" id="fundador">
         <div class="row">
             <div class="col-md-12 mb-30"> <span class="section-subtitle">Creadores</span>
                 <h2 class="section-title">Ofrenda <span>By Inferno Fest</span></h2>

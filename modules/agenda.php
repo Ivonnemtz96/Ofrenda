@@ -155,8 +155,8 @@
 
 <!-- Chefs -->
 <section class="menus menu section-padding">
-    <div class="container">
-        <div class="row" style="margin-bottom: 4rem;">
+    <div class="container" id="divina" style="margin-bottom: 9rem;">
+        <div class="row" style="margin-bottom: 4rem;" >
             <div class="col-md-12 mb-30">
                 <span class="section-subtitle">Festival de gastronomía primitiva </span>
                 <h2 class="section-title">La Divina <span> Costilla</span></h2>
@@ -165,8 +165,8 @@
                 <img src="/img/16.png" alt="">
             </div>
         </div>
-
-        <div class="row" style="margin-bottom: 4rem;">
+        <div id="meatallica" style="margin-bottom: 9rem;"></div>
+        <div class="row" style="margin-bottom: 4rem;" >
             <div class="col-md-12 mb-30">
                 <span class="section-subtitle">Festival de gastronomía primitiva </span>
                 <h2 class="section-title">Meatallica & <span> Friends</span></h2>
@@ -177,7 +177,8 @@
         </div>
 
         <!-- Celebridades  -->
-        <div class="row" style="margin-bottom: 4rem;">
+        <div id="celebridades" style="margin-bottom: 9rem;"></div>
+        <div class="row" style="margin-bottom: 4rem;" >
             <div class="col-md-12 mb-30">
                 <span class="section-subtitle">Chef Celebridades</span>
                 <h2 class="section-title">Homenaje a <span> nuestros maestros</span></h2>
@@ -189,6 +190,7 @@
         </div>
 
         <!-- Invitados -->
+        <div id="invitados" style="margin-bottom: 9rem;"></div>
         <div class="row" style="margin-bottom: 4rem;">
             <div class="col-md-12 mb-30">
                 <span class="section-subtitle">Festival de gastronomía primitiva</span>
@@ -208,30 +210,17 @@
             </div>
         </div>
 
-        <div class="row" style="margin-bottom: 4rem;">
+    </div>
+</section>
+<!-- Musica Por -->
+<section class="team section-padding" style="padding-top: 0px;">
+    <div class="container" id="musica">
+        <div class="row justify-content-center align-items-center">
+            <!-- Texto -->
             <div class="col-md-12 mb-30">
                 <span class="section-subtitle">Talento</span>
                 <h2 class="section-title">Música por </h2>
             </div>
-            <div class="col-md-12">
-                <img src="/img/18.png" alt="">
-            </div>
-        </div>
-    </div>
-</section>
-
-
-<!-- Team -->
-<section class="team section-padding" style="padding-top: 0px;">
-    <div class="container">
-        <div class="row">
-            <div class="col-md-12 mb-30"> <span class="section-subtitle">Creadores</span>
-                <h2 class="section-title">Ofrenda <span>By Inferno Fest</span></h2>
-            </div>
-        </div>
-        <div class="row justify-content-center align-items-center">
-            <!-- Texto -->
-
             <div class="col-md-2 mt-5">
                 <div class="item animate-box" data-animate-effect="fadeInUp">
                     <img src="/img/23.png" alt="">
