@@ -17,7 +17,7 @@
                  <li class="nav-item"><a class="nav-link" href="/about">Sobre Nosotros</a></li>
                  <li class="nav-item"><a class="nav-link" href="/">Fundador</a></li>
                  <li class="nav-item"><a class="nav-link" href="/">Galería</a></li>
-                 <li class="nav-item"><a class="nav-link" href="/">Comprar boletos</a></li>
+                 <li class="nav-item"><a class="nav-link" href="/agenda">Agenda</a></li>
                  <li class="nav-item"><a class="nav-link" href="/">Contacto</a></li>
              </ul>
          </div>
