@@ -153,103 +153,70 @@
 </section>
 
 
-<!-- Team -->
-<section class="team section-padding">
+<!-- Chefs -->
+<section class="menus menu section-padding">
     <div class="container">
-        <div class="row">
-            <div class="col-md-12 mb-30"> <span class="section-subtitle">Creadores</span>
-                <h2 class="section-title">Ofrenda <span>By Inferno Fest</span></h2>
-            </div>
-        </div>
-        <div class="row justify-content-center align-items-center">
-            <div class="col-6 col-md-6 mb-5" style="margin-bottom: 2rem !important;">
-                <div class="infos animate-box" data-animate-effect="fadeInUp">
-                    <h3>Fundador</h3>
-                    <h6><span>Chef.</span> Abraham Tamez</h6>
-                    <p>
-                        Apasionado por el buen comer, el chef
-                        Abraham Tamez es conocido como
-                        el rebelde de la gastronomía en Baja
-                        Sur, es un amante excéntrico
-                        de la cocina mexicana y de sus raices
-                        prehispánicas por lo que decide dar vida
-                        a Inferno Fest como tributo a nuestras
-                        más primitivas raíces gastronómicas.
-                    </p>
-                </div>
-            </div>
-            <div class="col-6 col-md-6 mb-5" style="margin-bottom: 2rem !important;">
-                <div class="item animate-box" data-animate-effect="fadeInUp">
-                    <div class="team-img">
-                        <div class="img"><img style="width: 22rem;" src="/img/team/4.jpg" alt="img"></div>
-                    </div>
-
-                </div>
-            </div>
-            <!-- Co-fundadores -->
-            <div class="col-md-12" style="margin-top: 2rem;">
-                <div class="container text-center animate-box" data-animate-effect="fadeInUp">
-                    <h2 class="section-title">Co- <span>fundadores</span></h2>
-                    <img src="/img/06.png" alt="">
-                </div>
-            </div>
-            <!-- Texto -->
-
-            <div class="col-md-3 mt-5">
-                <div class="item animate-box" data-animate-effect="fadeInUp">
-                    <div class="infos">
-                        <h6><span>1.</span> Emanuele Olivero</h6>
-                        <p>La experiencia y trayectoria por
-                            este mundo se ve reflejado en su
-                            arte culinario. Dejando un legado
-                            para las nuevas generaciones.</p>
-                    </div>
-                </div>
-            </div>
-            <div class="col-md-3 mt-5">
-                <div class="item animate-box" data-animate-effect="fadeInUp">
-                    <div class="infos">
-                        <h6><span>2.</span> Alberto Collarte</h6>
-                        <p>
-                            Considerado uno de los
-                            mejores parrilleros de la Baja Sur,
-                            apasionado por la sustentabilidad y
-                            la cocina fresca. <br><br>
-                        </p>
-                    </div>
-                </div>
-            </div>
-            <div class="col-md-3 mt-5">
-                <div class="item animate-box" data-animate-effect="fadeInUp">
-                    <div class="infos">
-                        <h6><span>3.</span> Christian Ricci</h6>
-                        <p>
-                            Un artista a la hora de montar
-                            escenarios gastronómicos
-                            siempre cuidando su origen y la
-                            madre Italia que lo vio nacer.
-                        </p>
-                    </div>
-                </div>
-            </div>
-            <div class="col-md-3 mt-5">
-                <div class="item animate-box" data-animate-effect="fadeInUp">
-                    <div class="infos">
-                        <h6><span>4.</span> Cesar Pita</h6>
-                        <p>
-                            El catrín de la cocina espontánea
-                            siempre en la búsqueda de sabores
-                            exóticos que combinen cultura con
-                            el estilo de vida de la region.
-                        </p>
-                    </div>
-                </div>
+        <div class="row" style="margin-bottom: 4rem;">
+            <div class="col-md-12 mb-30">
+                <span class="section-subtitle">Festival de gastronomía primitiva </span>
+                <h2 class="section-title">La Divina <span> Costilla</span></h2>
             </div>
             <div class="col-md-12">
-                <div class="container animate-box" data-animate-effect="fadeInUp">
-                    <img src="/img/07.png" alt="">
-                </div>
+                <img src="/img/16.png" alt="">
             </div>
         </div>
+
+        <div class="row" style="margin-bottom: 4rem;">
+            <div class="col-md-12 mb-30">
+                <span class="section-subtitle">Festival de gastronomía primitiva </span>
+                <h2 class="section-title">Meatallica & <span> Friends</span></h2>
+            </div>
+            <div class="col-md-12">
+                <img src="/img/17.png" alt="">
+            </div>
+        </div>
+
+        <!-- Celebridades  -->
+        <div class="row" style="margin-bottom: 4rem;">
+            <div class="col-md-12 mb-30">
+                <span class="section-subtitle">Chef Celebridades</span>
+                <h2 class="section-title">Homenaje a <span> nuestros maestros</span></h2>
+                <span>Cena por los chefs La Divina Costilla y Meatllica Friends</span>
+            </div>
+            <div class="col-md-12">
+                <img src="/img/18.png" alt="">
+            </div>
+        </div>
+
+        <!-- Invitados -->
+        <div class="row" style="margin-bottom: 4rem;">
+            <div class="col-md-12 mb-30">
+                <span class="section-subtitle">Festival de gastronomía primitiva</span>
+                <h2 class="section-title">Chef <span> invitados</span></h2>
+            </div>
+            <div class="col-md-12">
+                <img src="/img/19.png" alt="">
+            </div>
+            <div class="col-md-12">
+                <img src="/img/20.png" alt="">
+            </div>
+            <div class="col-md-12">
+                <img src="/img/21.png" alt="">
+            </div>
+            <div class="col-md-12">
+                <img src="/img/22.png" alt="">
+            </div>
+        </div>
+
+        <div class="row" style="margin-bottom: 4rem;">
+            <div class="col-md-12 mb-30">
+                <span class="section-subtitle">Talento</span>
+                <h2 class="section-title">Música por </h2>
+            </div>
+            <div class="col-md-12">
+                <img src="/img/18.png" alt="">
+            </div>
+        </div>
+
     </div>
 </section>
