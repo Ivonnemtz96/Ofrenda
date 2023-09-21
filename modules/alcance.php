@@ -176,69 +176,39 @@
     </div>
 </section>
 
-<!-- Target -->
+<!-- inlfuencers -->
 <section class="newshome section-padding">
     <div class="container">
-        <div class="row">
-            <div class="col-md-12 mb-30">
-                <span class="section-subtitle">Prepárate para la mejor velada </span>
-                <h2 class="section-title">Target</h2>
+        <div class="row justify-content-center">
+            <div class="col-md-12 mb-30 text-center">
+                <span class="section-subtitle">Influencers </span>
+                <h2 class="section-title">Líderes de la comunidad</h2>
+            </div>
+            <div class="col-12 col-md-12">
+                <div class="item animate-box" data-animate-effect="fadeInUp">
+                    <div class="post-img">
+                        <div class="img"> <img src="/img/29.png" alt="img"> </div>
+                    </div>
+                </div>
             </div>
         </div>
-        <div class="row text-center justify-content-center">
-            <div class="col-4 col-md-4">
+    </div>
+</section>
+
+<!-- Instalación artística -->
+<section class="menus menu section-padding bg-lightcolor">
+    <div class="container">
+        <div class="row justify-content-center">
+            <div class="col-md-12 mb-30 text-center">
+                <span class="section-subtitle">Instalación artística by </span>
+                <h2 class="section-title">Ivan Guaderrama</h2>
+            </div>
+            <div class="col-12 col-md-12">
                 <div class="item animate-box" data-animate-effect="fadeInUp">
                     <div class="post-img">
-                        <div class="img"> <img style="width: 4rem;" src="/img/users.png" alt="img"> </div>
-                    </div>
-                    <div class="cont">
-                        <h2 class="section-title" style="font-size: 2rem;"><a href="#">Perfil</a></h2>
-                        <p>
-                            Hombres y Mujeres <br>
-                            Solteros y Casados.
-                        </p>
+                        <div class="img"> <img src="/img/30.png?=1" alt="img"> </div>
                     </div>
                 </div>
-            </div>
-            <div class="col-4 col-md-4">
-                <div class="item animate-box" data-animate-effect="fadeInUp">
-                    <div class="post-img">
-                        <div class="img"> <img style="width: 4rem;" src="/img/intereses.png" alt="img"> </div>
-                    </div>
-                    <div class="cont">
-                        <h2 class="section-title" style="font-size: 2rem;"><a href="#">Intereses</a></h2>
-                        <p>
-                            Cultura Mexicana <br>
-                            Viajeros Nacionales <br>
-                            e Internacionales <br>
-                            Alta cocina <br>
-                            Familia
-                        </p>
-                    </div>
-                </div>
-            </div>
-            <div class="col-4 col-md-4">
-                <div class="item animate-box" data-animate-effect="fadeInUp">
-                    <div class="post-img">
-                        <div class="img"> <img style="width: 4rem;" src="/img/economia.png" alt="img"> </div>
-                    </div>
-                    <div class="cont">
-                        <h2 class="section-title" style="font-size: 2rem;">
-                            <a href="#">Socio económico</a>
-                        </h2>
-                        <p>
-                            Empresarios, Directores <br>
-                            Gerentes y Emprendedores <br>
-                            A+,B+,B
-                        </p>
-                    </div>
-                </div>
-            </div>
-            <div class="col-md-12 mb-30">
-                <h2 class="section-title">400 asistentes <span>el día del evento principal</span></h2>
-            </div>
-            <div class="col-md-10">
-                <img src="/img/27.png" alt="">
             </div>
         </div>
     </div>
