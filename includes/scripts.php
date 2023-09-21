@@ -12,6 +12,7 @@
 <script src="/js/jquery.magnific-popup.js"></script>
 <script src="/js/YouTubePopUp.js"></script>
 <script src="/js/scripts.js"></script>
+
 <!-- Timer -->
 <script>
 function updateTimer() {
