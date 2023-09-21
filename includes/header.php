@@ -30,7 +30,6 @@
                          <li class="dropdown-item"><a href="/agenda#musica">Musica Por</a></li>
                      </ul>
                  </li>
-                 <li class="nav-item"><a class="nav-link" href="/agenda">Agenda</a></li>
                  <li class="nav-item"><a class="nav-link" href="/alcance">Alcance</a></li>
                  <li class="nav-item"><a class="nav-link" href="/patrocinios">Patrocinios</a></li>
                  <li class="nav-item"><a class="nav-link" href="/">Galería</a></li>
