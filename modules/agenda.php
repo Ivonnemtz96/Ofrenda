@@ -84,7 +84,29 @@
                     </div>
                 </div>
             </div>
-            
+            <div class="col-md-4">
+                <div class="item animate-box" data-animate-effect="fadeInUp">
+                    <div class="post-img">
+                        <div class="img"> <img src="/img/31.png?=1" alt="img"> </div>
+                    </div>
+                    <div class="cont">
+                        <span>Viernes 3 de Noviembre 8:00pm a 11:00pm</span>
+                        <h2 class="section-title" style="font-size: 2rem;">
+                            <a href="#">La llegada de la Tribu</a>
+                        </h2>
+                        <p>
+                            Para iniciar el festival deleitaremos a
+                            los medios, chefs e invitados VIP
+                            en un ritual espectacular a mano del
+                            Chef Abraham Tamez y su manada,
+                            con una experiencia totalmente
+                            única, llena de color, sabor y buenos
+                            amigos.
+                        </p>
+                        <a href="post.html" class="more">Details <i class="ti-angle-double-right"></i></a>
+                    </div>
+                </div>
+            </div>
 
             <div class="col-md-4">
                 <div class="item animate-box" data-animate-effect="fadeInUp">
@@ -157,7 +179,7 @@
 <!-- Chefs -->
 <section class="menus menu section-padding">
     <div class="container" id="divina" style="margin-bottom: 9rem;">
-        <div class="row" style="margin-bottom: 4rem;" >
+        <div class="row" style="margin-bottom: 4rem;">
             <div class="col-md-12 mb-30">
                 <span class="section-subtitle">Festival de gastronomía primitiva </span>
                 <h2 class="section-title">La Divina <span> Costilla</span></h2>
@@ -167,7 +189,7 @@
             </div>
         </div>
         <div id="meatallica" style="margin-bottom: 9rem;"></div>
-        <div class="row" style="margin-bottom: 4rem;" >
+        <div class="row" style="margin-bottom: 4rem;">
             <div class="col-md-12 mb-30">
                 <span class="section-subtitle">Festival de gastronomía primitiva </span>
                 <h2 class="section-title">Meatallica & <span> Friends</span></h2>
@@ -179,7 +201,7 @@
 
         <!-- Celebridades  -->
         <div id="celebridades" style="margin-bottom: 9rem;"></div>
-        <div class="row" style="margin-bottom: 4rem;" >
+        <div class="row" style="margin-bottom: 4rem;">
             <div class="col-md-12 mb-30">
                 <span class="section-subtitle">Chef Celebridades</span>
                 <h2 class="section-title">Homenaje a <span> nuestros maestros</span></h2>
