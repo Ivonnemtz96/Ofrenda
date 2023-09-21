@@ -13,7 +13,7 @@
 
 
 
-<!-- News -->
+<!-- Agenda -->
 <section class="newshome section-padding">
     <div class="container">
         <div class="row">
@@ -84,6 +84,7 @@
                     </div>
                 </div>
             </div>
+            
 
             <div class="col-md-4">
                 <div class="item animate-box" data-animate-effect="fadeInUp">

@@ -21,7 +21,7 @@
                          <li class="dropdown-item"><a href="/about#fundador">Fundador</a></li>
                      </ul>
                  </li>
-                 <li class="nav-item dropdown"> <span class="nav-link"> Agenda <i class="ti-angle-down"></i></span>
+                 <li class="nav-item dropdown"> <a class="nav-link" href="/agenda">Agenda <i class="ti-angle-down"></i></a>
                      <ul class="dropdown-menu last">
                          <li class="dropdown-item"><a href="/agenda#divina">La Divina Costilla</a></li>
                          <li class="dropdown-item"><a href="/agenda#meatallica">Meatallica & Friends</a></li>
