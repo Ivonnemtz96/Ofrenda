@@ -11,6 +11,7 @@
     </div>
 </header>
 
+<div id="target" style="margin-bottom: 5rem;"></div>
 <!-- Target -->
 <section class="newshome section-padding">
     <div class="container">
@@ -21,7 +22,7 @@
             </div>
         </div>
         <div class="row text-center justify-content-center">
-            <div class="col-4 col-md-4">
+            <div class="col-4 col-md-4 animate-box" data-animate-effect="fadeInUp">
                 <div class="item animate-box" data-animate-effect="fadeInUp">
                     <div class="post-img">
                         <div class="img"> <img style="width: 4rem;" src="/img/users.png" alt="img"> </div>
@@ -35,7 +36,7 @@
                     </div>
                 </div>
             </div>
-            <div class="col-4 col-md-4">
+            <div class="col-4 col-md-4 animate-box" data-animate-effect="fadeInUp">
                 <div class="item animate-box" data-animate-effect="fadeInUp">
                     <div class="post-img">
                         <div class="img"> <img style="width: 4rem;" src="/img/intereses.png" alt="img"> </div>
@@ -52,7 +53,7 @@
                     </div>
                 </div>
             </div>
-            <div class="col-4 col-md-4">
+            <div class="col-4 col-md-4 animate-box" data-animate-effect="fadeInUp">
                 <div class="item animate-box" data-animate-effect="fadeInUp">
                     <div class="post-img">
                         <div class="img"> <img style="width: 4rem;" src="/img/economia.png" alt="img"> </div>
@@ -69,17 +70,19 @@
                     </div>
                 </div>
             </div>
-            <div class="col-md-12 mb-30">
+            <div class="col-md-12 mb-30 animate-box" data-animate-effect="fadeInUp">
                 <h2 class="section-title">400 asistentes <span>el día del evento principal</span></h2>
             </div>
-            <div class="col-md-10">
+            <div class="col-md-10 animate-box" data-animate-effect="fadeInUp">
                 <img src="/img/27.png" alt="">
             </div>
         </div>
     </div>
 </section>
 
+
 <!-- Canales -->
+<div id="canales" style="margin-bottom: 5rem;"></div>
 <section class="menus menu section-padding bg-lightcolor">
     <div class="container">
         <div class="row ">
@@ -118,10 +121,11 @@
 
 
 <!-- Prensa -->
+<div id="prensa" style="margin-bottom: 5rem;"></div>
 <section class="newshome section-padding">
     <div class="container">
         <div class="row">
-            <div class="col-md-4 mb-30">
+            <div class="col-md-4 mb-30 animate-box" data-animate-effect="fadeInUp">
                 <h2 class="section-title">Prensa Nacional e Internacional</h2>
             </div>
 
@@ -177,10 +181,11 @@
 </section>
 
 <!-- inlfuencers -->
+<div id="influencers" style="margin-bottom: 5rem;"></div>
 <section class="newshome section-padding">
     <div class="container">
         <div class="row justify-content-center">
-            <div class="col-md-12 mb-30 text-center">
+            <div class="col-md-12 mb-30 text-center animate-box" data-animate-effect="fadeInUp">
                 <span class="section-subtitle">Influencers </span>
                 <h2 class="section-title">Líderes de la comunidad</h2>
             </div>
@@ -196,10 +201,11 @@
 </section>
 
 <!-- Instalación artística -->
+<div id="arte" style="margin-bottom: 5rem;"></div>
 <section class="menus menu section-padding bg-lightcolor">
     <div class="container">
         <div class="row justify-content-center">
-            <div class="col-md-12 mb-30 text-center">
+            <div class="col-md-12 mb-30 text-center animate-box" data-animate-effect="fadeInUp">
                 <span class="section-subtitle">Instalación artística by </span>
                 <h2 class="section-title">Ivan Guaderrama</h2>
             </div>

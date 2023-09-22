@@ -292,6 +292,7 @@
     </div>
 </section>
 
+<!-- ediciones anteriores -->
 <section class="section-padding">
     <div class="container">
         <div class="row">
@@ -309,35 +310,38 @@
     </div>
 </section>
 
-<!-- Testimonials -->
-<section class="testimonials section-padding bg-img bg-fixed pos-re" data-overlay-dark="6"
-    data-background="/img/banner.jpg">
+<div id="responsabilidad" style="margin-bottom: 5rem;"></div>
+
+<!-- Responsabilidad social -->
+<section class="section-padding">
     <div class="container">
-        <div class="row">
-            <div class="offset-md-3 col-md-6">
-                <div class="owl-carousel owl-theme text-center">
-                    <div class="item">
-                        <div class="client-area">
-                            <h6>Jonathan Lee</h6> <span>California, USA</span>
-                        </div>
-                        <p>The name Winta, in principle, quite fully describes the restaurant's concept: red meat and
-                            red wine - what else is needed for a steakhouse!</p>
-                    </div>
-                    <div class="item">
-                        <div class="client-area">
-                            <h6>Emma White</h6> <span>Madrid, Spain</span>
-                        </div>
-                        <p>The name Winta, in principle, quite fully describes the restaurant's concept: red meat and
-                            red wine - what else is needed for a steakhouse!</p>
-                    </div>
-                    <div class="item">
-                        <div class="client-area">
-                            <h6>Drana Moss</h6> <span>Roma, Italy</span>
-                        </div>
-                        <p>The name Winta, in principle, quite fully describes the restaurant's concept: red meat and
-                            red wine - what else is needed for a steakhouse!</p>
-                    </div>
+        <div class="row justify-content-between align-items-center">
+            <div class="col-md-12">
+                <div class="col-md-6 mb-60 animate-box" data-animate-effect="fadeInUp">
+                    <h2 class="section-title" style="text-transform: none;">Responsabilidad Social</h2>
+                    <span class="section-subtitle">
+                        Protocolo de Sustentabilidad
+                    </span>
                 </div>
+
+            </div>
+            <div class="col-md-5 animate-box" data-animate-effect="fadeInUp">
+                <img src="/img/35.jpg" alt="">
+            </div>
+            <div class="col-md-6 animate-box" data-animate-effect="fadeInUp">
+                <img src="/img/34.png" style="width:20rem; margin-bottom: 1rem;" alt="">
+                <p style="text-align: justify;">
+                    * <strong>Basura segmentada</strong> y staff de recolección
+                    constante. <br>
+                    * Contenedor recolector. <br>
+                    * Todos las bolsas y desechables son
+                    <strong>biodegradables</strong>. <br>
+                    * Desperdicio mínimo de basura. <br>
+                    * Manejo de grasas y aceites. <br>
+                    * Donación de 300 boletos a Bomberos con
+                    valor de $1,050,000 pesos. <br>
+                </p>
+                <a href="/about.php" class="butn butn-dark text-left"> <span>Ver más</span></a>
             </div>
         </div>
     </div>

@@ -32,7 +32,18 @@
                          <li class="dropdown-item"><a href="/agenda#musica">Musica Por</a></li>
                      </ul>
                  </li>
-                 <li class="nav-item"><a class="nav-link" href="/alcance">Alcance</a></li>
+                 <li class="nav-item dropdown">
+                     <a class="nav-link" href="/patrocinios">
+                         Alcance <i class="ti-angle-down"></i>
+                     </a>
+                     <ul class="dropdown-menu last">
+                         <li class="dropdown-item"><a href="/alcance#target">Target</a></li>
+                         <li class="dropdown-item"><a href="/alcance#canales">Canales</a></li>
+                         <li class="dropdown-item"><a href="/alcance#prensa">Prensa</a></li>
+                         <li class="dropdown-item"><a href="/alcance#influencers">Influencers</a></li>
+                         <li class="dropdown-item"><a href="/alcance#arte">Arte</a></li>
+                     </ul>
+                 </li>
                  <li class="nav-item dropdown">
                      <a class="nav-link" href="/patrocinios">
                          Patrocinios <i class="ti-angle-down"></i>
@@ -42,7 +53,8 @@
                          <li class="dropdown-item"><a href="/patrocinios#aforo">Aforo</a></li>
                      </ul>
                  </li>
-                 <li class="nav-item"><a class="nav-link" href="/">Responsabilidad social</a></li>
+                 <li class="nav-item"><a class="nav-link" href="/contacto#responsabilidad">Responsabilidad social</a>
+                 </li>
                  <li class="nav-item"><a class="nav-link" href="/">Galería</a></li>
                  <li class="nav-item"><a class="nav-link" href="/contacto">Contacto</a></li>
              </ul>
