@@ -1,5 +1,5 @@
 <!-- Header Banner -->
-<header class="banner-header valign bg-img bg-img-fixed" data-overlay-dark="5" data-background="/img/slider/3.jpg">
+<header class="banner-header valign bg-img" data-overlay-dark="5" data-background="/img/banner/banner.jpg">
     <div class="container">
         <div class="row">
             <div class="col-md-12 text-right caption mt-90 animate-box" data-animate-effect="fadeInUp">
