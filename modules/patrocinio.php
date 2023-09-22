@@ -13,7 +13,7 @@
 
 
 
-<!-- Agenda -->
+<!-- patrocinio -->
 <section class="newshome section-padding">
     <div class="container">
         <div class="row">
@@ -30,7 +30,7 @@
                     </div>
                     <div class="cont">
                         <h2 class="section-title" style="font-size: 2rem;"><a href="#">Fuego</a></h2>
-                        <span>Patrocinador principal $3, 500, 000 <br> Presentador del evento:</span>
+                        <p><strong>Patrocinador principal $3, 500, 000 <br> Presentador del evento:</strong></p>
                         <p>
                             * Brand en la imagen institucional de Ofrenda <br>
                             * Marca al inicio en cortometraje, comerciales del evento, playera
@@ -48,7 +48,7 @@
                             * Video de 20 seg. Presentando el escenario principal y pantallas.<br>
                             * Entrega de cheque con marca de donación a la cruz roja
                             y bomberos.<br>
-                        </p> <a href="#" class="more">Details <i class="ti-angle-double-right"></i></a>
+                        </p> <a href="#" class="more">Comprar boletos <i class="ti-angle-double-right"></i></a>
                     </div>
                 </div>
             </div>
@@ -59,7 +59,7 @@
                     </div>
                     <div class="cont">
                         <h2 class="section-title" style="font-size: 2rem;"><a href="#">Mictlán</a></h2>
-                        <span>Patrocinador $350, 000 <br> <strong>Área VIP</strong></span>
+                        <p><strong>Patrocinador $350,000 </strong><br> <strong>Área VIP</strong></p>
                         <p>
                             * El espacio para relajarse con buena música a cargo de
                             los Djs: Alejandro Rivas, Eduardo Pedrin y Pablo Llanes. <br>
@@ -75,7 +75,7 @@
                             * Pautas de 10 seg presentando el escenario principal y
                             pantallas. <br>
                             * Logo en brazalete. <br>
-                        </p> <a href="#" class="more">Details <i class="ti-angle-double-right"></i></a>
+                        </p> <a href="#" class="more">Comprar boletos <i class="ti-angle-double-right"></i></a>
                     </div>
                 </div>
             </div>
@@ -87,23 +87,65 @@
                     </div>
                     <div class="cont">
                         <h2 class="section-title" style="font-size: 2rem;"><a href="#">Brasa</a></h2>
-                        <span>Patrocinador $350, 000 <br> <strong>Área VIP</strong></span>
+                        <p><strong>Patrocinador $150,000</strong></p>
                         <p>
-                            * El espacio para relajarse con buena música a cargo de
-                            los Djs: Alejandro Rivas, Eduardo Pedrin y Pablo Llanes. <br>
                             * Marca al final en cortometraje, comerciales de evento,
                             playera de chefs con +600,000 impactos en 3 meses en
                             redes sociales, radio, restaurantes, centros comerciales,
                             Marina, eventos gastronómicos y rueda de prensa. <br>
-                            * Un espacio de stand el VIP principal. <br>
-                            * 10 boletos para la cena de gala. <br>
-                            * 30 boletos general, valor 35 mil pesos. <br>
+                            * Un espacio de stand en evento de bienvenida de
+                            prensa y chefs. <br>
+                            * Un espacio para stand de 3 x 3 en evento principal. <br>
+                            * 10 boletos VIP, valor 70 mil pesos. <br>
+                            * 10 boletos general, valor 35 mil pesos. <br>
                             * Video promocional en escenario principal y pantallas. <br>
                             * Step and repeat. <br>
                             * Pautas de 10 seg presentando el escenario principal y
                             pantallas. <br>
-                            * Logo en brazalete. <br>
-                        </p> <a href="#" class="more">Details <i class="ti-angle-double-right"></i></a>
+                            * Entrega de cheque con marca de donación a la cruz
+                            roja y bomberos. <br>
+                        </p> <a href="#" class="more">Comprar boletos <i class="ti-angle-double-right"></i></a>
+                    </div>
+                </div>
+            </div>
+
+            <div class="col-md-6">
+                <div class="item animate-box" data-animate-effect="fadeInUp">
+                    <div class="post-img">
+                        <div class="img"> <img src="/img/09.png" alt="img"> </div>
+                    </div>
+                    <div class="cont">
+                        <h2 class="section-title" style="font-size: 2rem;"><a href="#">Carbón</a></h2>
+                        <p><strong>Patrocinador $75,000</strong></p>
+                        <p>
+                            * Marca al final en cortometraje, comerciales de evento,
+                            playera de chefs con +600,000 impactos en 3 meses en
+                            redes sociales, radio, restaurantes, centros comerciales,
+                            Marina, eventos gastronómicos y rueda de prensa.
+                            * Un espacio para stand de 3 x 3 en evento principal.
+                            * 10 boletos general, valor 35 mil pesos.
+                            * Video promocional en escenario principal y pantallas.
+                            * Step and repeat.
+                            * Video de 10 seg. Presentando el escenario principal.
+                        </p> <a href="#" class="more">Comprar boletos <i class="ti-angle-double-right"></i></a>
+                    </div>
+                </div>
+            </div>
+
+            <div class="col-md-6">
+                <div class="item animate-box" data-animate-effect="fadeInUp">
+                    <div class="post-img">
+                        <div class="img"> <img src="/img/09.png" alt="img"> </div>
+                    </div>
+                    <div class="cont">
+                        <h2 class="section-title" style="font-size: 2rem;"><a href="#">Madera</a></h2>
+                        <p><strong>Costo $20,000</strong></p>
+                        <p>
+                            * Espacio para stand de 3 x 3 mts, 3 x 4 mts, 3 x 5 mts en
+                            evento principal. <br>
+                            * Apoyo con espacio donado para artistas, artesanos y
+                            emprendedores locales a evaluación.
+                        </p> <a href="#" class="more">Comprar boletos <i class="ti-angle-double-right"></i></a>
                     </div>
                 </div>
             </div>
@@ -113,62 +155,58 @@
 </section>
 
 
-<!-- Chefs -->
-<section class="menus menu section-padding">
+<!-- Jerarquía -->
+<section class="menus menu section-padding" id="jerarquia">
     <div class="container" id="divina" style="margin-bottom: 9rem;">
         <div class="row" style="margin-bottom: 4rem;">
-            <div class="col-md-12 mb-30">
-                <span class="section-subtitle">Festival de gastronomía primitiva </span>
-                <h2 class="section-title">La Divina <span> Costilla</span></h2>
+            <div class="col-md-12 mb-30 animate-box" data-animate-effect="fadeInUp">
+                <span class="section-subtitle">Orden de distrubución de los patrocinadores del festival. </span>
+                <h2 class="section-title">Jerarquía </h2>
             </div>
-            <div class="col-md-12">
-                <img src="/img/16.png" alt="">
-            </div>
-        </div>
-        <div id="meatallica" style="margin-bottom: 9rem;"></div>
-        <div class="row" style="margin-bottom: 4rem;">
-            <div class="col-md-12 mb-30">
-                <span class="section-subtitle">Festival de gastronomía primitiva </span>
-                <h2 class="section-title">Meatallica & <span> Friends</span></h2>
-            </div>
-            <div class="col-md-12">
-                <img src="/img/17.png" alt="">
+            <div class="col-md-12 animate-box" data-animate-effect="fadeInUp">
+                <img src="/img/32.png" alt="">
             </div>
         </div>
+    </div>
+</section>
 
-        <!-- Celebridades  -->
-        <div id="celebridades" style="margin-bottom: 9rem;"></div>
+<div id="aforo" style="margin-bottom: 6rem;"></div>
+<!-- Aforo -->
+<section class="menus menu ">
+    <div class="container" id="divina" style="margin-bottom: 9rem;">
         <div class="row" style="margin-bottom: 4rem;">
-            <div class="col-md-12 mb-30">
-                <span class="section-subtitle">Chef Celebridades</span>
-                <h2 class="section-title">Homenaje a <span> nuestros maestros</span></h2>
-                <span>Cena por los chefs La Divina Costilla y Meatllica Friends</span>
+            <div class="col-md-6 mb-30 animate-box" data-animate-effect="fadeInUp">
+                <span class="section-subtitle">Edición 2023 </span>
+                <h2 class="section-title">Aforo </h2>
             </div>
-            <div class="col-md-12">
-                <img src="/img/18.png" alt="">
+            <div class="col-md-6 animate-box" data-animate-effect="fadeInUp">
+                <div class="row">
+                    <div class="col-md-4 text-center">
+                        <img src="/img/33.png?=1" style="width: 8rem;" alt="">
+                        <h2>3,500 pax </h2>
+                        <p>
+                            Preventa <strong>$2,500</strong> <br>
+                            Venta <strong>$3,500</strong>
+                        </p>
+
+                    </div>
+                    <div class="col-md-4 text-center">
+                        <img src="/img/33.png?=1" style="width: 8rem;" alt="">
+                        <h2>Last Call</h2>
+                        <p>
+                            Venta <strong>$4,500</strong> <br>
+                        </p>
+                    </div>
+                    <div class="col-md-4 text-center">
+                        <img src="/img/33.png?=1" style="width: 8rem;" alt="">
+                        <h2>Dante</h2>
+                        <p>
+                            5 mesas de 10 pax <br>
+                            Venta <strong>$200,000</strong>
+                        </p>
+                    </div>
+                </div>
             </div>
         </div>
-
-        <!-- Invitados -->
-        <div id="invitados" style="margin-bottom: 9rem;"></div>
-        <div class="row" style="margin-bottom: 4rem;">
-            <div class="col-md-12 mb-30">
-                <span class="section-subtitle">Festival de gastronomía primitiva</span>
-                <h2 class="section-title">Chef <span> invitados</span></h2>
-            </div>
-            <div class="col-md-12">
-                <img src="/img/19.png" alt="">
-            </div>
-            <div class="col-md-12">
-                <img src="/img/20.png" alt="">
-            </div>
-            <div class="col-md-12">
-                <img src="/img/21.png" alt="">
-            </div>
-            <div class="col-md-12">
-                <img src="/img/22.png" alt="">
-            </div>
-        </div>
-
     </div>
 </section>

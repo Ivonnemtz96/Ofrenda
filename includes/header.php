@@ -16,12 +16,14 @@
          <div class="collapse navbar-collapse" id="navbarSupportedContent">
              <ul class="navbar-nav ml-auto">
                  <li class="nav-item"><a class="nav-link" href="/">Inicio</a></li>
-                 <li class="nav-item dropdown"><a class="nav-link" href="/about">Nosotros <i class="ti-angle-down"></i></a>
+                 <li class="nav-item dropdown"><a class="nav-link" href="/about">Nosotros <i
+                             class="ti-angle-down"></i></a>
                      <ul class="dropdown-menu last">
                          <li class="dropdown-item"><a href="/about#fundador">Fundador</a></li>
                      </ul>
                  </li>
-                 <li class="nav-item dropdown"> <a class="nav-link" href="/agenda">Agenda <i class="ti-angle-down"></i></a>
+                 <li class="nav-item dropdown"> <a class="nav-link" href="/agenda">Agenda <i
+                             class="ti-angle-down"></i></a>
                      <ul class="dropdown-menu last">
                          <li class="dropdown-item"><a href="/agenda#divina">La Divina Costilla</a></li>
                          <li class="dropdown-item"><a href="/agenda#meatallica">Meatallica & Friends</a></li>
@@ -31,9 +33,18 @@
                      </ul>
                  </li>
                  <li class="nav-item"><a class="nav-link" href="/alcance">Alcance</a></li>
-                 <li class="nav-item"><a class="nav-link" href="/patrocinios">Patrocinios</a></li>
+                 <li class="nav-item dropdown">
+                     <a class="nav-link" href="/patrocinios">
+                         Patrocinios <i class="ti-angle-down"></i>
+                     </a>
+                     <ul class="dropdown-menu last">
+                         <li class="dropdown-item"><a href="/patrocinios#jerarquia">Jerarquía</a></li>
+                         <li class="dropdown-item"><a href="/patrocinios#aforo">Aforo</a></li>
+                     </ul>
+                 </li>
+                 <li class="nav-item"><a class="nav-link" href="/">Responsabilidad social</a></li>
                  <li class="nav-item"><a class="nav-link" href="/">Galería</a></li>
-                 <li class="nav-item"><a class="nav-link" href="/">Contacto</a></li>
+                 <li class="nav-item"><a class="nav-link" href="/contacto">Contacto</a></li>
              </ul>
          </div>
      </div>
