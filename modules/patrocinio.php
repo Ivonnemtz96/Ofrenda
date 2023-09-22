@@ -26,7 +26,7 @@
             <div class="col-md-6">
                 <div class="item animate-box" data-animate-effect="fadeInUp">
                     <div class="post-img">
-                        <div class="img"> <img src="/img/09.png" alt="img"> </div>
+                        <div class="img"> <img src="/img/36.png?=1" alt="img"> </div>
                     </div>
                     <div class="cont">
                         <h2 class="section-title" style="font-size: 2rem;"><a href="#">Fuego</a></h2>
@@ -55,7 +55,7 @@
             <div class="col-md-6">
                 <div class="item animate-box" data-animate-effect="fadeInUp">
                     <div class="post-img">
-                        <div class="img"> <img src="/img/09.png" alt="img"> </div>
+                        <div class="img"> <img src="/img/37.png" alt="img"> </div>
                     </div>
                     <div class="cont">
                         <h2 class="section-title" style="font-size: 2rem;"><a href="#">Mictlán</a></h2>
@@ -83,7 +83,7 @@
             <div class="col-md-6">
                 <div class="item animate-box" data-animate-effect="fadeInUp">
                     <div class="post-img">
-                        <div class="img"> <img src="/img/09.png" alt="img"> </div>
+                        <div class="img"> <img src="/img/38.png" alt="img"> </div>
                     </div>
                     <div class="cont">
                         <h2 class="section-title" style="font-size: 2rem;"><a href="#">Brasa</a></h2>
@@ -112,7 +112,7 @@
             <div class="col-md-6">
                 <div class="item animate-box" data-animate-effect="fadeInUp">
                     <div class="post-img">
-                        <div class="img"> <img src="/img/09.png" alt="img"> </div>
+                        <div class="img"> <img src="/img/39.png" alt="img"> </div>
                     </div>
                     <div class="cont">
                         <h2 class="section-title" style="font-size: 2rem;"><a href="#">Carbón</a></h2>
@@ -135,7 +135,7 @@
             <div class="col-md-6">
                 <div class="item animate-box" data-animate-effect="fadeInUp">
                     <div class="post-img">
-                        <div class="img"> <img src="/img/09.png" alt="img"> </div>
+                        <div class="img"> <img src="/img/40.png" alt="img"> </div>
                     </div>
                     <div class="cont">
                         <h2 class="section-title" style="font-size: 2rem;"><a href="#">Madera</a></h2>
