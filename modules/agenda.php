@@ -80,7 +80,7 @@
                             sabor y buenos amigos dentro del
                             hotel Solaz.
                         </p>
-                        <a href="post.html" class="more">Comprar boletos <i class="ti-angle-double-right"></i></a>
+                        <a href="#" class="more">Comprar boletos <i class="ti-angle-double-right"></i></a>
                     </div>
                 </div>
             </div>
@@ -103,7 +103,7 @@
                             única, llena de color, sabor y buenos
                             amigos.
                         </p>
-                        <a href="post.html" class="more">Comprar boletos <i class="ti-angle-double-right"></i></a>
+                        <a href="#" class="more">Comprar boletos <i class="ti-angle-double-right"></i></a>
                     </div>
                 </div>
             </div>
@@ -166,7 +166,7 @@
                             acompañados de buena música,
                             bebidas y comida.
                         </p>
-                        <a href="post.html" class="more">Comprar boletos <i class="ti-angle-double-right"></i></a>
+                        <a href="#" class="more">Comprar boletos <i class="ti-angle-double-right"></i></a>
                     </div>
                 </div>
             </div>

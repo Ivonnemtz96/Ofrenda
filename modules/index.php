@@ -84,7 +84,7 @@
                     ofrecido”
                 </p>
 
-                <a href="index.html" class="butn butn-dark"> <span>Ver más</span></a>
+                <a href="/about" class="butn butn-dark"> <span>Ver más</span></a>
 
             </div>
             <div class="col-md-6 about mb-60 animate-box" data-animate-effect="fadeInUp">
@@ -163,7 +163,7 @@
                 data-animate-effect="fadeInUp">
                 <div class="timer_line ">
                     <time id="timer" datetime="2023-11-01"></time> <br> <br>
-                    <a href="index.html" class="butn butn-dark"> <span>Comprar Boletos</span></a>
+                    <a href="#" class="butn butn-dark"> <span>Comprar Boletos</span></a>
                 </div>
             </div>
         </div>
