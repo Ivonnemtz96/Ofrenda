@@ -2,9 +2,12 @@
 <html lang="es">
 <?php
     include("includes/head.php");
+    $title = 'Nosotros';
+    $nosotros = 'active';
 ?>
-<body >
-       
+
+<body>
+
     <?php
         include("includes/preloader.php");
         include("includes/header.php");

@@ -2,6 +2,8 @@
 <html lang="es">
 <?php
     include("includes/head.php");
+    $title = 'Galería';
+    $galeria = 'active';
 ?>
 <body >
        
