@@ -33,7 +33,7 @@
                      </ul>
                  </li>
                  <li class="nav-item dropdown">
-                     <a class="nav-link" href="/patrocinios">
+                     <a class="nav-link" href="/alcance">
                          Alcance <i class="ti-angle-down"></i>
                      </a>
                      <ul class="dropdown-menu last">
@@ -53,7 +53,7 @@
                          <li class="dropdown-item"><a href="/patrocinios#aforo">Aforo</a></li>
                      </ul>
                  </li>
-                 <li class="nav-item"><a class="nav-link" href="/contacto#responsabilidad">Responsabilidad social</a>
+                 <li class="nav-item"><a class="nav-link" href="/#responsabilidad">Responsabilidad social</a>
                  </li>
                  <li class="nav-item"><a class="nav-link" href="/galeria">Galería</a></li>
                  <li class="nav-item"><a class="nav-link" href="/contacto">Contacto</a></li>
