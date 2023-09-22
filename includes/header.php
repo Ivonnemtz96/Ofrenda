@@ -55,7 +55,7 @@
                  </li>
                  <li class="nav-item"><a class="nav-link" href="/contacto#responsabilidad">Responsabilidad social</a>
                  </li>
-                 <li class="nav-item"><a class="nav-link" href="/">Galería</a></li>
+                 <li class="nav-item"><a class="nav-link" href="/galeria">Galería</a></li>
                  <li class="nav-item"><a class="nav-link" href="/contacto">Contacto</a></li>
              </ul>
          </div>
