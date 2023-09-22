@@ -12,7 +12,8 @@
 <script src="/js/jquery.magnific-popup.js"></script>
 <script src="/js/YouTubePopUp.js"></script>
 <script src="/js/scripts.js"></script>
-
+<!-- icons -->
+<script src="https://kit.fontawesome.com/a66c8c86d9.js" crossorigin="anonymous"></script>
 <!-- Timer -->
 <script>
 function updateTimer() {

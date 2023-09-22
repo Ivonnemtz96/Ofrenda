@@ -304,7 +304,7 @@
                     </span>
                 </div>
                 <img src="/img/08.png" alt="">
-                <a href="/about.php" class="butn butn-dark"> <span>Ver más</span></a>
+                <a href="/about" class="butn butn-dark"> <span>Ver más</span></a>
             </div>
         </div>
     </div>
@@ -341,7 +341,7 @@
                     * Donación de 300 boletos a Bomberos con
                     valor de $1,050,000 pesos. <br>
                 </p>
-                <a href="/about.php" class="butn butn-dark text-left"> <span>Ver más</span></a>
+                <a href="/about" class="butn butn-dark text-left"> <span>Ver más</span></a>
             </div>
         </div>
     </div>
