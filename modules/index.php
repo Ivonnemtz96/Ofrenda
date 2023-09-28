@@ -57,7 +57,7 @@
         <div class="row">
             <div class="col-md-6 mb-60 animate-box" data-animate-effect="fadeInUp">
                 <span class="section-subtitle">Nosotros</span>
-                <h2 class="section-title">¿Qué Inferno?</h2>
+                <h2 class="section-title">¿Qué es Inferno?</h2>
                 <p>
                     Es un evento temático que tiene como propósito
                     primario reunir a los mejores cocineros de Baja Sur

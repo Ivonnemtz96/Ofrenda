@@ -1,5 +1,5 @@
 <!-- Header Banner -->
-<header class="banner-header valign bg-img" data-overlay-dark="5" data-background="/img/banner/banner.jpg">
+<header class="banner-header valign bg-img bg-img-fixed" data-overlay-dark="5" data-background="/img/slider/3.jpg">
     <div class="container">
         <div class="row">
             <div class="col-md-12 text-right caption mt-90 animate-box" data-animate-effect="fadeInUp">
@@ -11,7 +11,6 @@
     </div>
 </header>
 
-<div id="target" style="margin-bottom: 5rem;"></div>
 <!-- Target -->
 <section class="newshome section-padding">
     <div class="container">
@@ -22,7 +21,7 @@
             </div>
         </div>
         <div class="row text-center justify-content-center">
-            <div class="col-4 col-md-4 animate-box" data-animate-effect="fadeInUp">
+            <div class="col-4 col-md-4">
                 <div class="item animate-box" data-animate-effect="fadeInUp">
                     <div class="post-img">
                         <div class="img"> <img style="width: 4rem;" src="/img/users.png" alt="img"> </div>
@@ -36,7 +35,7 @@
                     </div>
                 </div>
             </div>
-            <div class="col-4 col-md-4 animate-box" data-animate-effect="fadeInUp">
+            <div class="col-4 col-md-4">
                 <div class="item animate-box" data-animate-effect="fadeInUp">
                     <div class="post-img">
                         <div class="img"> <img style="width: 4rem;" src="/img/intereses.png" alt="img"> </div>
@@ -53,7 +52,7 @@
                     </div>
                 </div>
             </div>
-            <div class="col-4 col-md-4 animate-box" data-animate-effect="fadeInUp">
+            <div class="col-4 col-md-4">
                 <div class="item animate-box" data-animate-effect="fadeInUp">
                     <div class="post-img">
                         <div class="img"> <img style="width: 4rem;" src="/img/economia.png" alt="img"> </div>
@@ -70,19 +69,17 @@
                     </div>
                 </div>
             </div>
-            <div class="col-md-12 mb-30 animate-box" data-animate-effect="fadeInUp">
+            <div class="col-md-12 mb-30">
                 <h2 class="section-title">400 asistentes <span>el día del evento principal</span></h2>
             </div>
-            <div class="col-md-10 animate-box" data-animate-effect="fadeInUp">
+            <div class="col-md-10">
                 <img src="/img/27.png" alt="">
             </div>
         </div>
     </div>
 </section>
 
-
 <!-- Canales -->
-<div id="canales" style="margin-bottom: 5rem;"></div>
 <section class="menus menu section-padding bg-lightcolor">
     <div class="container">
         <div class="row ">
@@ -121,11 +118,10 @@
 
 
 <!-- Prensa -->
-<div id="prensa" style="margin-bottom: 5rem;"></div>
 <section class="newshome section-padding">
     <div class="container">
         <div class="row">
-            <div class="col-md-4 mb-30 animate-box" data-animate-effect="fadeInUp">
+            <div class="col-md-4 mb-30">
                 <h2 class="section-title">Prensa Nacional e Internacional</h2>
             </div>
 
@@ -181,11 +177,10 @@
 </section>
 
 <!-- inlfuencers -->
-<div id="influencers" style="margin-bottom: 5rem;"></div>
 <section class="newshome section-padding">
     <div class="container">
         <div class="row justify-content-center">
-            <div class="col-md-12 mb-30 text-center animate-box" data-animate-effect="fadeInUp">
+            <div class="col-md-12 mb-30 text-center">
                 <span class="section-subtitle">Influencers </span>
                 <h2 class="section-title">Líderes de la comunidad</h2>
             </div>
@@ -201,11 +196,10 @@
 </section>
 
 <!-- Instalación artística -->
-<div id="arte" style="margin-bottom: 5rem;"></div>
 <section class="menus menu section-padding bg-lightcolor">
     <div class="container">
         <div class="row justify-content-center">
-            <div class="col-md-12 mb-30 text-center animate-box" data-animate-effect="fadeInUp">
+            <div class="col-md-12 mb-30 text-center">
                 <span class="section-subtitle">Instalación artística by </span>
                 <h2 class="section-title">Ivan Guaderrama</h2>
             </div>
