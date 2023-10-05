@@ -34,6 +34,7 @@
                  <li class="nav-item"><a class="nav-link" href="/patrocinios">Patrocinios</a></li>
                  <li class="nav-item"><a class="nav-link" href="/">Galería</a></li>
                  <li class="nav-item"><a class="nav-link" href="/">Contacto</a></li>
+                 <li class="nav-item"><a class="nav-link butn butn-dark" style="border-radius: 15px;" href="/">Comprar Boletos</a></li>
              </ul>
          </div>
      </div>

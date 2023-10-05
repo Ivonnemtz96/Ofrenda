@@ -5,5 +5,5 @@
     <title>Ofrenda by Inferno Fest</title>
     <link rel="shortcut icon" href="/img/favicon.png" />
     <link rel="stylesheet" href="/css/plugins.css" />
-    <link rel="stylesheet" href="/css/style.css" />
+    <link rel="stylesheet" href="/css/style2.css" />
 </head>

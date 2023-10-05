@@ -1,7 +1,62 @@
-<!-- Slider -->
-<header class="header slider-fade">
+<!-- Slider CELULAR -->
+<header class="header slider-fade d-block d-md-none">
     <div class="owl-carousel owl-theme">
-        <div class="text-left item bg-img" data-overlay-dark="1" data-background="/img/slider/slider.png">
+        <div class="text-left item bg-img d-block d-md-none" data-overlay-dark="1" data-background="/img/cartel2.jpg">
+            <div class="v-middle caption mt-30">
+                <div class="container">
+                    <div class="row">
+                        <div class="col-md-8">
+                            <!-- <div class="o-hidden">
+                                <h4>Welcome to Winta</h4>
+                                <h1>Steakhouse + Bar</h1>
+                                <a href="https://1.envato.market/winta" target="_blank" class="butn butn-dark">
+                                    <span>BUY NOW</span></a>
+                            </div> -->
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+       
+        <div class="text-left item bg-img" data-overlay-dark="1" data-background="/img/slider/slider2.jpg">
+            <div class="v-middle caption mt-30">
+                <div class="container">
+                    <div class="row">
+                        <div class="col-md-8">
+                            <!-- <div class="o-hidden">
+                                <h4>Winta Steakhouse + Bar</h4>
+                                <h1>Explore Our Menu</h1>
+                                <a href="https://1.envato.market/winta" target="_blank" class="butn butn-dark">
+                                    <span>BUY NOW</span></a>
+                            </div> -->
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <!-- <div class="text-left item bg-img" data-overlay-dark="1" data-background="/img/slider/slider3.jpg">
+            <div class="v-middle caption mt-30">
+                <div class="container">
+                    <div class="row">
+                        <div class="col-md-8">
+                            <div class="o-hidden">
+                                <h4>Welcome to Winta</h4>
+                                <h1>Steakhouse + Bar</h1>
+                                <a href="https://1.envato.market/winta" target="_blank" class="butn butn-dark">
+                                    <span>Buy Now</span></a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div> -->
+    </div>
+</header>
+
+<!-- Slider ESCRITORIO-->
+<header class="header slider-fade d-none d-md-block">
+    <div class="owl-carousel owl-theme">
+        <div class="text-left item bg-img " data-overlay-dark="1" data-background="/img/slider/slider.png">
             <div class="v-middle caption mt-30">
                 <div class="container">
                     <div class="row">
@@ -33,24 +88,48 @@
                 </div>
             </div>
         </div>
-        <div class="text-left item bg-img" data-overlay-dark="1" data-background="/img/slider/slider3.jpg">
+        <!-- <div class="text-left item bg-img" data-overlay-dark="1" data-background="/img/slider/slider3.jpg">
             <div class="v-middle caption mt-30">
                 <div class="container">
                     <div class="row">
                         <div class="col-md-8">
-                            <!-- <div class="o-hidden">
+                            <div class="o-hidden">
                                 <h4>Welcome to Winta</h4>
                                 <h1>Steakhouse + Bar</h1>
                                 <a href="https://1.envato.market/winta" target="_blank" class="butn butn-dark">
                                     <span>Buy Now</span></a>
-                            </div> -->
+                            </div>
                         </div>
                     </div>
                 </div>
             </div>
-        </div>
+        </div> -->
     </div>
 </header>
+
+
+<!-- Ofrenda -->
+<section class="menus menu section-padding bg-lightcolor">
+    <div class="container">
+        <div class="row" style="margin-bottom:2rem;">
+            <div class="col-md-12 text-center animate-box" data-animate-effect="fadeInUp">
+                <span class="section-subtitle">Consigue tus boletos</span>
+                <h2 class="section-title">Ofrenda by Inferno Fest</h2>
+            </div>
+            <div class="col-12 col-md-12 animate-box text-center" style="margin-bottom:3rem;" data-animate-effect="fadeInUp">
+                <div class="timer_line ">
+                    <time id="timer" datetime="2023-11-01"></time> <br> <br>
+                    <!-- <a href="#" class="butn butn-dark"> <span>Comprar Boletos</span></a> -->
+                </div>
+            </div>
+            <div class="col-12 col-md-12 animate-box text-center" style="margin-top: 2.5rem;"data-animate-effect="fadeInUp">
+                <a href="#" class="butn butn-dark" style="padding: 22px 18px; border-radius:15px"> <span  style="font-size: 30px !important;">Comprar Boletos</span></a>
+            </div>
+        </div>
+    </div>
+</section>
+
+
 <!-- About -->
 <section class="section-padding">
     <div class="container">
@@ -154,12 +233,12 @@
                 </p>
             </div>
         </div>
-        <div class="row" style="margin-bottom:5rem;">
+        <div hidden class="row" style="margin-bottom:5rem;">
             <div class="col-md-12 text-center animate-box" data-animate-effect="fadeInUp">
                 <span class="section-subtitle">Consigue tus boletos</span>
                 <h2 class="section-title">Ofrenda by Inferno Fest</h2>
             </div>
-            <div class="col-8 col-md-12 animate-box text-center" style="margin-top: 2rem;"
+            <div class="col-12 col-md-12 animate-box text-center" style="margin-top: 2rem;"
                 data-animate-effect="fadeInUp">
                 <div class="timer_line ">
                     <time id="timer" datetime="2023-11-01"></time> <br> <br>
@@ -304,7 +383,7 @@
                     </span>
                 </div>
                 <img src="/img/08.png" alt="">
-                <a href="/about" class="butn butn-dark"> <span>Ver más</span></a>
+                <a href="#" class="butn butn-dark"> <span>Comprar Boletos</span></a>
             </div>
         </div>
     </div>
@@ -341,7 +420,7 @@
                     * Donación de 300 boletos a Bomberos con
                     valor de $1,050,000 pesos. <br>
                 </p>
-                <a href="/about" class="butn butn-dark text-left"> <span>Ver más</span></a>
+                <a href="/#" class="butn butn-dark text-left"> <span>Comprar Boletos</span></a>
             </div>
         </div>
     </div>
