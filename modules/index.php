@@ -1,34 +1,24 @@
 <!-- Slider CELULAR -->
-<header class="header slider-fade d-block d-md-none">
+<header class="header slider-fade d-block d-md-block d-lg-none">
     <div class="owl-carousel owl-theme">
-        <div class="text-left item bg-img d-block d-md-none" data-overlay-dark="1" data-background="/img/cartel2.jpg">
+        <div class="text-left item bg-img" data-overlay-dark="1" data-background="/img/cartel2.jpg">
             <div class="v-middle caption mt-30">
                 <div class="container">
                     <div class="row">
                         <div class="col-md-8">
-                            <!-- <div class="o-hidden">
-                                <h4>Welcome to Winta</h4>
-                                <h1>Steakhouse + Bar</h1>
-                                <a href="https://1.envato.market/winta" target="_blank" class="butn butn-dark">
-                                    <span>BUY NOW</span></a>
-                            </div> -->
+                          
                         </div>
                     </div>
                 </div>
             </div>
         </div>
        
-        <div class="text-left item bg-img" data-overlay-dark="1" data-background="/img/slider/slider2.jpg">
+        <div class="text-left item bg-img" data-overlay-dark="1" data-background="/img/slider/slider4.jpg">
             <div class="v-middle caption mt-30">
                 <div class="container">
                     <div class="row">
                         <div class="col-md-8">
-                            <!-- <div class="o-hidden">
-                                <h4>Winta Steakhouse + Bar</h4>
-                                <h1>Explore Our Menu</h1>
-                                <a href="https://1.envato.market/winta" target="_blank" class="butn butn-dark">
-                                    <span>BUY NOW</span></a>
-                            </div> -->
+                           
                         </div>
                     </div>
                 </div>
@@ -54,7 +44,7 @@
 </header>
 
 <!-- Slider ESCRITORIO-->
-<header class="header slider-fade d-none d-md-block">
+<header class="header slider-fade d-none d-md-none d-lg-block">
     <div class="owl-carousel owl-theme">
         <div class="text-left item bg-img " data-overlay-dark="1" data-background="/img/slider/slider.jpg">
             <div class="v-middle caption mt-30">
