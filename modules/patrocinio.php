@@ -48,7 +48,7 @@
                             * Video de 20 seg. Presentando el escenario principal y pantallas.<br>
                             * Entrega de cheque con marca de donación a la cruz roja
                             y bomberos.<br>
-                        </p> <a href="#" class="more">Details <i class="ti-angle-double-right"></i></a>
+                        </p> <a href="https://www.ticketdirecto.com/par-public/rest/evento/id/773828" target="_blank" class="more">Comprar boletos <i class="ti-angle-double-right"></i></a>
                     </div>
                 </div>
             </div>
@@ -75,7 +75,7 @@
                             * Pautas de 10 seg presentando el escenario principal y
                             pantallas. <br>
                             * Logo en brazalete. <br>
-                        </p> <a href="#" class="more">Details <i class="ti-angle-double-right"></i></a>
+                        </p> <a href="https://www.ticketdirecto.com/par-public/rest/evento/id/773828" target="_blank" class="more">Comprar boletos <i class="ti-angle-double-right"></i></a>
                     </div>
                 </div>
             </div>
@@ -104,7 +104,7 @@
                             pantallas. <br>
                             * Entrega de cheque con marca de donación a la cruz
                             roja y bomberos. <br>
-                        </p> <a href="#" class="more">Details <i class="ti-angle-double-right"></i></a>
+                        </p> <a href="https://www.ticketdirecto.com/par-public/rest/evento/id/773828" target="_blank" class="more">Comprar boletos <i class="ti-angle-double-right"></i></a>
                     </div>
                 </div>
             </div>
@@ -127,7 +127,7 @@
                             * Video promocional en escenario principal y pantallas.
                             * Step and repeat.
                             * Video de 10 seg. Presentando el escenario principal.
-                        </p> <a href="#" class="more">Details <i class="ti-angle-double-right"></i></a>
+                        </p> <a href="https://www.ticketdirecto.com/par-public/rest/evento/id/773828" target="_blank" class="more">Comprar boletos <i class="ti-angle-double-right"></i></a>
                     </div>
                 </div>
             </div>
@@ -145,7 +145,7 @@
                             evento principal. <br>
                             * Apoyo con espacio donado para artistas, artesanos y
                             emprendedores locales a evaluación.
-                        </p> <a href="#" class="more">Details <i class="ti-angle-double-right"></i></a>
+                        </p> <a href="https://www.ticketdirecto.com/par-public/rest/evento/id/773828" target="_blank" class="more">Comprar boletos <i class="ti-angle-double-right"></i></a>
                     </div>
                 </div>
             </div>

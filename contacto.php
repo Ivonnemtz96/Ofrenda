@@ -1,9 +1,10 @@
 <!DOCTYPE html>
 <html lang="es">
 <?php
-    include("includes/head.php");
-    $title = 'contacto';
+    $title = 'Contacto';
     $contacto = 'active';
+    include("includes/head.php");
+    include("includes/metricas.php");
 ?>
 <body >
        

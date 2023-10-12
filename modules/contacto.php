@@ -86,7 +86,7 @@
                                     </div>
                                 </div>
                             </div>
-                            <a href="#" class="butn mt-30"> <span>Comprar boletos</span></a>
+                            <a href="https://www.ticketdirecto.com/par-public/rest/evento/id/773828" target="_blank" class="butn mt-30"> <span>Comprar boletos</span></a>
                         </div>
                     </div>
                 </div>

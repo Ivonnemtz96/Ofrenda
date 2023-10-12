@@ -27,7 +27,7 @@
             </div>
             <div class="col-12 col-md-12 animate-box text-center" style="margin-top: 2.5rem;"
                 data-animate-effect="fadeInUp">
-                <a href="#" class="butn butn-dark" style="padding: 22px 18px; border-radius:15px"> <span
+                <a href="https://www.ticketdirecto.com/par-public/rest/evento/id/773828" target="_blank" class="butn butn-dark" style="padding: 22px 18px; border-radius:15px"> <span
                         style="font-size: 30px !important;">Comprar Boletos</span></a>
             </div>
         </div>
@@ -68,7 +68,7 @@
                     ofrecido”
                 </p>
 
-                <a href="/agenda" class="butn butn-dark"> <span>Ver más</span></a>
+                <a href="/agenda" class="butn butn-dark"> <span>Ver agenda</span></a>
 
             </div>
             <div class="col-md-6 about mb-60 animate-box" data-animate-effect="fadeInUp">

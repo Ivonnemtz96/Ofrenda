@@ -96,7 +96,7 @@
                 </div>
             </div>
             <div class="col-12 col-md-12 animate-box text-center" style="margin-top: 2.5rem;"data-animate-effect="fadeInUp">
-                <a href="#" class="butn butn-dark" style="padding: 22px 18px; border-radius:15px"> <span  style="font-size: 30px !important;">Comprar Boletos</span></a>
+                <a href="https://www.ticketdirecto.com/par-public/rest/evento/id/773828" target="_blank" class="butn butn-dark" style="padding: 22px 18px; border-radius:15px"> <span  style="font-size: 30px !important;">Comprar Boletos</span></a>
             </div>
         </div>
     </div>
@@ -336,7 +336,7 @@
                                 </div>
                             </div>
                         </div>
-                        <a href="#" class="butn mt-30"> <span>Comprar Boletos</span></a>
+                        <a href="https://www.ticketdirecto.com/par-public/rest/evento/id/773828" target="_blank" class="butn mt-30"> <span>Comprar Boletos</span></a>
                     </div>
                 </div>
             </div>
@@ -356,7 +356,7 @@
                     </span>
                 </div>
                 <img src="/img/08.png" alt="">
-                <a href="#" class="butn butn-dark"> <span>Comprar Boletos</span></a>
+                <a href="https://www.ticketdirecto.com/par-public/rest/evento/id/773828" target="_blank" class="butn butn-dark"> <span>Comprar Boletos</span></a>
             </div>
         </div>
     </div>
@@ -393,7 +393,7 @@
                     * Donación de 300 boletos a Bomberos con
                     valor de $1,050,000 pesos. <br>
                 </p>
-                <a href="/#" class="butn butn-dark text-left"> <span>Comprar Boletos</span></a>
+                <a href="https://www.ticketdirecto.com/par-public/rest/evento/id/773828" target="_blank" class="butn butn-dark text-left"> <span>Comprar Boletos</span></a>
             </div>
         </div>
     </div>

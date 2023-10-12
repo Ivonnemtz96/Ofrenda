@@ -36,7 +36,8 @@
                             con un tour por los restaurantes de
                             nuestros más afamados chefs
                             participantes en San Jose del Cabo.
-                        </p> <a href="#" class="more">Comprar boletos <i class="ti-angle-double-right"></i></a>
+                        </p> <a href="https://www.ticketdirecto.com/par-public/rest/evento/id/773828" target="_blank"
+                            class="more">Comprar boletos <i class="ti-angle-double-right"></i></a>
                     </div>
                 </div>
             </div>
@@ -55,7 +56,8 @@
                             para apreciar la fiesta del desfile
                             Náutico en el Yate El Patron, con la
                             prensa e Influencers.
-                        </p> <a href="#" class="more">Comprar boletos <i class="ti-angle-double-right"></i></a>
+                        </p> <a href="https://www.ticketdirecto.com/par-public/rest/evento/id/773828" target="_blank"
+                            class="more">Comprar boletos <i class="ti-angle-double-right"></i></a>
                     </div>
                 </div>
             </div>
@@ -80,7 +82,8 @@
                             sabor y buenos amigos dentro del
                             hotel Solaz.
                         </p>
-                        <a href="#" class="more">Comprar boletos <i class="ti-angle-double-right"></i></a>
+                        <a href="https://www.ticketdirecto.com/par-public/rest/evento/id/773828" target="_blank"
+                            class="more">Comprar boletos <i class="ti-angle-double-right"></i></a>
                     </div>
                 </div>
             </div>
@@ -103,7 +106,8 @@
                             única, llena de color, sabor y buenos
                             amigos.
                         </p>
-                        <a href="#" class="more">Comprar boletos <i class="ti-angle-double-right"></i></a>
+                        <a href="https://www.ticketdirecto.com/par-public/rest/evento/id/773828" target="_blank"
+                            class="more">Comprar boletos <i class="ti-angle-double-right"></i></a>
                     </div>
                 </div>
             </div>
@@ -126,7 +130,8 @@
                             somos. Acompañados de un
                             espectáculo gastronómico, musical y
                             cultural.
-                        </p> <a href="#" class="more">Comprar boletos <i class="ti-angle-double-right"></i></a>
+                        </p> <a href="https://www.ticketdirecto.com/par-public/rest/evento/id/773828" target="_blank"
+                            class="more">Comprar boletos <i class="ti-angle-double-right"></i></a>
                     </div>
                 </div>
             </div>
@@ -146,7 +151,8 @@
                             divierten codo a codo con los chefs y
                             mixologos que hicieron posible este
                             evento
-                        </p> <a href="#" class="more">Comprar boletos <i class="ti-angle-double-right"></i></a>
+                        </p> <a href="https://www.ticketdirecto.com/par-public/rest/evento/id/773828" target="_blank"
+                            class="more">Comprar boletos <i class="ti-angle-double-right"></i></a>
                     </div>
                 </div>
             </div>
@@ -166,7 +172,8 @@
                             acompañados de buena música,
                             bebidas y comida.
                         </p>
-                        <a href="#" class="more">Comprar boletos <i class="ti-angle-double-right"></i></a>
+                        <a href="https://www.ticketdirecto.com/par-public/rest/evento/id/773828" target="_blank"
+                            class="more">Comprar boletos <i class="ti-angle-double-right"></i></a>
                     </div>
                 </div>
             </div>
