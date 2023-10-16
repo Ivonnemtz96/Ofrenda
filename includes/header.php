@@ -33,6 +33,7 @@
                  <li class="nav-item"><a class="nav-link" href="/alcance">Alcance</a></li>
                  <li class="nav-item"><a class="nav-link" href="/patrocinios">Patrocinios</a></li>
                  <li class="nav-item"><a class="nav-link" href="/galeria">Galería</a></li>
+                 <li class="nav-item"><a class="nav-link" href="/layout">Layout</a></li>
                  <li class="nav-item"><a class="nav-link" href="/contacto">Contacto</a></li>
                  <li class="nav-item"><a class="nav-link butn butn-dark" style="border-radius: 15px;" target="_blank" href="https://www.ticketdirecto.com/par-public/rest/evento/id/773828">Comprar Boletos</a></li>
              </ul>
