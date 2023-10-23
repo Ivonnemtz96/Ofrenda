@@ -381,7 +381,7 @@
                 <img src="/img/35.jpg" alt="">
             </div>
             <div class="col-md-6 animate-box" data-animate-effect="fadeInUp">
-                <img src="/img/34.png" style="width:20rem; margin-bottom: 1rem;" alt="">
+                <img src="/img/34.png?=1" style="width:20rem; margin-bottom: 1rem;" alt="">
                 <p style="text-align: justify;">
                     * <strong>Basura segmentada</strong> y staff de recolección
                     constante. <br>
