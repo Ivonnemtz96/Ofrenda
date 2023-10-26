@@ -3,8 +3,8 @@
     <div class="container">
         <div class="row">
             <div class="col-md-12 text-right caption mt-90 animate-box" data-animate-effect="fadeInUp">
-                <h1>About Us</h1>
-                <h5>Welcome to Winta</h5>
+                <h1>Sobre Nosotros</h1>
+                <h5></h5>
                 <hr class="line line-hr-right">
             </div>
         </div>
