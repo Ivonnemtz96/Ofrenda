@@ -6,7 +6,11 @@
     include("includes/head.php");
     include("includes/metricas.php");
 ?>
-
+<?
+if (isset($_GET)) {
+  include_once("php/msg.php");
+}
+?>
 <body>
 
     <?php

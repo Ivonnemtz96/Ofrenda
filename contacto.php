@@ -6,6 +6,7 @@
     include("includes/head.php");
     include("includes/metricas.php");
 ?>
+
 <body >
        
     <?php

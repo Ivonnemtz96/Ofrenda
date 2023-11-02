@@ -20,27 +20,33 @@
                     <div class="col-md-12 mb-60 animate-box" data-animate-effect="fadeInUp">
                         <h6>Contacto</h6>
                         <h5>¿Tienes alguna duda? Escríbenos.</h5> <br>
-                        <form method="" class="contact__form"
-                            action="#">
+                        <form method="POST" class=""
+                            action="/php/contact.php">
                             <!-- Form message -->
                             <!-- Form elements -->
                             <div class="row">
                                 <div class="col-md-6 form-group">
-                                    <input name="name" type="text" placeholder="Nombre *" required>
+                                    <input name="nombre" type="text" placeholder="Nombre *" required>
                                 </div>
                                 <div class="col-md-6 form-group">
-                                    <input name="email" type="email" placeholder="Correo *" required>
+                                    <input name="mail" type="email" placeholder="Correo *" required>
                                 </div>
                                 <div class="col-md-6 form-group">
-                                    <input name="phone" type="text" placeholder="Teléfono *" required>
+                                    <input name="tel" type="text" placeholder="Teléfono *" required>
                                 </div>
                                 <div class="col-md-6 form-group">
-                                    <input name="subject" type="text" placeholder="Asunto *" required>
+                                    <input name="asunto" type="text" placeholder="Asunto *" required>
                                 </div>
                                 <div class="col-md-12 form-group">
-                                    <textarea name="message" id="message" cols="30" rows="4" placeholder="Mensaje *"
+                                    <textarea name="msj" id="message" cols="30" rows="4" placeholder="Mensaje *"
                                         required></textarea>
                                 </div>
+                                <div class="row " style="margin-bottom: 3rem; margin-top:3rem;">
+                                <div class="col-12 col-md-12">
+                                    <div class="g-recaptcha" data-sitekey="6Lf92OAfAAAAAEy9m8sf2kbU0ojkdDs5CNOnaNYS"
+                                        required></div>
+                                </div>
+                            </div>
                                 <div class="col-md-12">
                                     <input name="submit" type="submit" value="Enviar">
                                 </div>
@@ -77,7 +83,7 @@
                                                     <div class="feat-inner2"> <span class="icon et-notebook"></span>
                                                         <div class="feat-info2">
                                                             <h5>Correo</h5>
-                                                            <h6><a href="mailto:cheftamez@yahoo.com">cheftamez@yahoo.com</a></h6>
+                                                            <p><a href="mailto:cheftamez@yahoo.com">cheftamez@yahoo.com</a></p>
                                                         </div>
                                                     </div>
                                                 </div>
