@@ -22,7 +22,7 @@
             <div class="col-12 col-md-12 animate-box text-center" style="margin-bottom:3rem;"
                 data-animate-effect="fadeInUp">
                 <div class="timer_line ">
-                    <time id="timer" datetime="2023-11-01"></time> <br> <br>
+                    <time id="timer" datetime="2023-11-04"></time> <br> <br>
                 </div>
             </div>
             <div class="col-12 col-md-12 animate-box text-center" style="margin-top: 2.5rem;"
