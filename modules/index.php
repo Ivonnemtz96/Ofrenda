@@ -91,7 +91,7 @@
             </div>
             <div class="col-12 col-md-12 animate-box text-center" style="margin-bottom:3rem;" data-animate-effect="fadeInUp">
                 <div class="timer_line ">
-                    <time id="timer" datetime="2023-11-04"></time> <br> <br>
+                    <time id="timer" datetime="2023-11-04 18:00:00"></time> <br> <br>
                     <!-- <a href="#" class="butn butn-dark"> <span>Comprar Boletos</span></a> -->
                 </div>
             </div>
